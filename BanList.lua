@@ -1,5 +1,5 @@
 local Ban = {
-	[3615676414] = {Motivo = " "}, -- p3u
+	[3615676414] = {Motivo = "flw"}, -- p3u
 	[1919390511] = {Motivo = "Wild fire all"},
 	[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 	[417042351] = {Motivo = "troll"}, -- matando varias pessoas do nd
@@ -99,6 +99,7 @@ local Ban = {
 	[2022158641] = {Motivo = "cumplice3"}, -- cumplice do hack
 	[3974278173] = {Motivo = "flw"}, -- me pergunta que explico
 	[11200494415] = {Motivo = "nem te conheço"}, -- doido q seguiu até o jogo de jujutsu falando q vc é filho dele
+	[5132741764] = {Motivo = "flw"}, -- ''ExTnoCreK'' 
 	
 }
 return Ban 
