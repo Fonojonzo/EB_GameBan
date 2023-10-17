@@ -100,6 +100,7 @@ local Ban = {
 	[3974278173] = {Motivo = "flw"}, -- me pergunta que explico
 	[11200494415] = {Motivo = "nem te conheço"}, -- doido q seguiu até o jogo de jujutsu falando q vc é filho dele
 	[5132741764] = {Motivo = "flw"}, -- ''ExTnoCreK'' 
+	[2545572927] = {Motivo = "não fuja"}, -- achou que sair iria salvar a propria pele trol de comando all 
 	
 }
 return Ban 
