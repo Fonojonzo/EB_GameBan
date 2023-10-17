@@ -103,5 +103,8 @@ local Ban = {
 	[2545572927] = {Motivo = "não fuja"}, -- achou que sair iria salvar a propria pele trol de comando all 
 	[4078842018] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
 	[3960556555] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
+	[567239119] = {Motivo = "flw"}, -- exploit
+
+	
 }
 return Ban 
