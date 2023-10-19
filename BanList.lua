@@ -1,5 +1,6 @@
 local Ban = {
 	[3615676414] = {Motivo = "flw"}, -- p3u
+	[1672825547] = {Motivo = "¿"}, -- cobaia do p3u
 	[1919390511] = {Motivo = "Wild fire all"},
 	[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 	[417042351] = {Motivo = "troll"}, -- matando varias pessoas do nd
@@ -105,6 +106,5 @@ local Ban = {
 	[3960556555] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
 	[567239119] = {Motivo = "flw"}, -- exploit
 	[4880390024] = {Motivo = "flw"}, -- 300 ref em um player
-	
 }
 return Ban 
