@@ -104,7 +104,7 @@ local Ban = {
 	[4078842018] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
 	[3960556555] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
 	[567239119] = {Motivo = "flw"}, -- exploit
-
+	[4880390024] = {Motivo = "flw"}, -- 300 ref em um player
 	
 }
 return Ban 
