@@ -109,7 +109,6 @@ local Ban = {
 	[547614911] = {Motivo = "flw"}, -- comandos all
 	[2767616030] = {Motivo = "flw"}, -- foi tratado bem no pc porem apos ser descoberto surtou e xingou a todos e mais
 	[2622844300] = {Motivo = "flw"}, -- troll
-	[4663595354] = {Motivo = "deveria ter feito oque falei"}, -- hack
-	
+
 }
 return Ban 
