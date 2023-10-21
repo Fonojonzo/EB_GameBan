@@ -108,7 +108,7 @@ local Ban = {
 	[4880390024] = {Motivo = "flw"}, -- 300 ref em um player
 	[547614911] = {Motivo = "flw"}, -- comandos all
 	[2767616030] = {Motivo = "flw"}, -- foi tratado bem no pc porem apos ser descoberto surtou e xingou a todos e mais
-
+	[2622844300] = {Motivo = "flw"}, -- troll
 	
 }
 return Ban 
