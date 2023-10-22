@@ -112,6 +112,7 @@ local Ban = {
 	[4348174677] = {Motivo = "flw"}, -- comandos all derrubando v3
 	[2203159747] = {Motivo = "flw"}, -- vendendo rank por conta de blox
 	[3303801571] = {Motivo = "flw"}, -- troll  comandos all
+	[4966537079] = {Motivo = "nice"}, -- troll comandos all
 
 }
 return Ban 
