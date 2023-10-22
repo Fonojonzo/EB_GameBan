@@ -109,6 +109,9 @@ local Ban = {
 	[547614911] = {Motivo = "flw"}, -- comandos all
 	[2767616030] = {Motivo = "flw"}, -- foi tratado bem no pc porem apos ser descoberto surtou e xingou a todos e mais
 	[2622844300] = {Motivo = "flw"}, -- troll
+	[4348174677] = {Motivo = "flw"}, -- comandos all derrubando v3
+	[2203159747] = {Motivo = "flw"}, -- vendendo rank por conta de blox
+	[3303801571] = {Motivo = "flw"}, -- troll  comandos all
 
 }
 return Ban 
