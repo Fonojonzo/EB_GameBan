@@ -114,6 +114,7 @@ local Ban = {
 	[4966537079] = {Motivo = "nice"}, -- troll comandos all
 	[4495717136] = {Motivo = "flw"}, -- abrindo ticket para contar mentira do tipo :: comprei serverowner e n ganhei ::
 	[1159804589] = {Motivo = "corra n"}, -- troll falando que ia fazer acontecer no jogo porem quando apareci saiu
+	[1028612797] = {Motivo = "flw"}, -- troll ''maior abuser voltou'' etc
 
 }
 return Ban 
