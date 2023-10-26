@@ -116,5 +116,10 @@ local Ban = {
 	[1159804589] = {Motivo = "corra n"}, -- troll falando que ia fazer acontecer no jogo porem quando apareci saiu
 	[1028612797] = {Motivo = "o maior abuser tomou ban de novo :)"}, -- troll ''maior abuser voltou'' etc
 	[1567378372] = {Motivo = "flw"}, -- troll
+	[4446134959]  = {Motivo = "N"}, -- p3u grupo
+	[3881342157]  = {Motivo = "O"}, -- p3u grupo
+	[4707601721]  = {Motivo = "O"}, -- p3u grupo
+	[4632403357]  = {Motivo = "B"}, -- p3u grupo
+
 }
 return Ban 
