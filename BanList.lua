@@ -120,6 +120,6 @@ local Ban = {
 	[3881342157]  = {Motivo = "O"}, -- p3u grupo
 	[4707601721]  = {Motivo = "O"}, -- p3u grupo
 	[4632403357]  = {Motivo = "B"}, -- p3u grupo
-
+	[4492538367]  = {Motivo = "B"}, -- troll all
 }
 return Ban 
