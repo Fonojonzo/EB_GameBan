@@ -123,6 +123,7 @@ local Ban = {
 	[4492538367]  = {Motivo = "flw"}, -- troll all
 	[381507062]  = {Motivo = "flw"}, -- esquisito
 	[4523619512]  = {Motivo = "flw"}, -- raid
+	[1852353089]  = {Motivo = "flw"}, -- ferpro_13
 	
 }
 return Ban 
