@@ -124,6 +124,7 @@ local Ban = {
 	[381507062]  = {Motivo = "flw"}, -- esquisito
 	[4523619512]  = {Motivo = "flw"}, -- raid
 	[1852353089]  = {Motivo = "flw"}, -- ferpro_13
+	[4935074060]  = {Motivo = "flw"}, -- matando gera
 	
 }
 return Ban 
