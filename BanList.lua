@@ -127,6 +127,7 @@ local Ban = {
 	[4935074060]  = {Motivo = "flw"}, -- matando gera
 	[1551853094]  = {Motivo = "Gamepass"}, -- tentando enganar os helper
 	[2983325277]  = {Motivo = "eu te avisei"}, -- matando as pessoas do nada
+	[2403238884]  = {Motivo = "eu te avisei"}, -- 
 	
 }
 return Ban 
