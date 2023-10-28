@@ -126,6 +126,7 @@ local Ban = {
 	[1852353089]  = {Motivo = "flw"}, -- ferpro_13
 	[4935074060]  = {Motivo = "flw"}, -- matando gera
 	[1551853094]  = {Motivo = "Gamepass"}, -- tentando enganar os helper
+	[2983325277]  = {Motivo = "eu te avisei"}, -- matando as pessoas do nada
 	
 }
 return Ban 
