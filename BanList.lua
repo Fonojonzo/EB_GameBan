@@ -133,7 +133,7 @@ local Ban = {
 	[2005080308]  = {Motivo = "que pro"}, -- xingando donos
 	[3975161281] = {Motivo = "que pro"}, -- xingando donos
 	[3360897701] = {Motivo = "que pro"}, -- permrank 160x
-	
+	[3360897701] = {Motivo = "nob"}, -- raidando jogo
 	
 
 	
