@@ -130,7 +130,8 @@ local Ban = {
 	[2403238884]  = {Motivo = "eu te avisei"}, --
 	[1833151628]  = {Motivo = "Venda de ranks"}, -- Vendendo rank
 	[2345466040]  = {Motivo = "rank all"}, -- rank all
-	
+	[2005080308]  = {Motivo = "que pro"}, -- xingando donos
+	[3975161281] = {Motivo = "que pro"}, -- xingando donos
 
 	
 }
