@@ -23,6 +23,7 @@ local Ban = {
         [3008820693] = {Motivo = "amigo do p3u"},
 	[538629407] = {Motivo = "HeadAdmin all"},
 	[2521671238] = {Motivo = "Gameban all"},
+	[1767595032] = {Motivo = "respeito"}, -- desrespeitando todos e sendo toxico
 	[1251812064] = {Motivo = "volta ai"},
 	[3245277447] = {Motivo = "flw"}, -- abusando de comandos
 	[4285090732] = {Motivo = "abusa e quita"}, -- abusando de comandos
