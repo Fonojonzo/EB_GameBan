@@ -138,6 +138,8 @@ local Ban = {
 	[15210477327] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, -- eb clone
 	[1163468836] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
 	[2054466194] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
+	[2908376678] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
+	
 	
 
 	
