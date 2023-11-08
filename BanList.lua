@@ -143,6 +143,8 @@ local Ban = {
 	[3048011540] = {Motivo = "Quer aprender vai para a escola."}, -- chatão
 	[3856155138] = {Motivo = "Flw"}, -- change all
 	[3830518780] = {Motivo = "Flw"}, -- mod all
+	[1025121351] = {Motivo = "Flw"}, -- mod all
+	
 	
 	
 	
