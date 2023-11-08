@@ -142,6 +142,8 @@ local Ban = {
 	[2451275596] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
 	[3048011540] = {Motivo = "Quer aprender vai para a escola."}, -- chatão
 	[3856155138] = {Motivo = "Flw"}, -- change all
+	[3830518780] = {Motivo = "Flw"}, -- mod all
+	
 	
 	
 	
