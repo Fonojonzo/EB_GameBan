@@ -143,6 +143,9 @@ local Ban = {
 	[3856155138] = {Motivo = "Flw"}, -- change all
 	[3830518780] = {Motivo = "Flw"}, -- mod all
 	[1025121351] = {Motivo = "Flw"}, -- mod all
+	[3138855555] = {Motivo = "Flw"}, -- troll
+
+
 	
 	
 	
