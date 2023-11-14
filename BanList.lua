@@ -145,6 +145,8 @@ local Ban = {
 	[1025121351] = {Motivo = "Flw"}, -- mod all
 	[3138855555] = {Motivo = "Flw"}, -- troll
 	[1951978287] = {Motivo = "Flw"}, -- venda de rank
+	[2825273003] = {Motivo = "Flw"}, -- venda de rank
+	
 	
 
 
