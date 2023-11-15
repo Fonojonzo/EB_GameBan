@@ -148,7 +148,7 @@ local Ban = {
 	[2825273003] = {Motivo = "Flw"}, -- venda de rank
 	[5139802524] = {Motivo = "Flw"}, -- troll
 	[2562940181] = {Motivo = "Flw"}, -- troll
-	
+	[4708395311] = {Motivo = "Flw"}, -- ''eb lixo''
 	
 	
 	
