@@ -150,6 +150,8 @@ local Ban = {
 	[2562940181] = {Motivo = "Flw"}, -- troll
 	[4708395311] = {Motivo = "Flw"}, -- ''eb lixo''
 	[4249967360] = {Motivo = "Flw"}, -- troll setlevel all 0
+	[3372430267] = {Motivo = "Spammando REF"}, -- desban até lembrar, ban dia 17/11
+	
 
 
 	
