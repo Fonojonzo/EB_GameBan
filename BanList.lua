@@ -154,7 +154,7 @@ local Ban = {
 	[3059601545] = {Motivo = "Spammando REF"}, -- desban até lembrar, ban dia 17/11
 	[1929694886] = {Motivo = "Venda de ranks"}, -- 
 	[4896351130] = {Motivo = "Compra de ranks"}, -- 
-
+	[2685107041] = {Motivo = "chik3n"}, -- deixando o servidor lotado de galinha
 
 	
 	
