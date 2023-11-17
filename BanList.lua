@@ -149,7 +149,9 @@ local Ban = {
 	[5139802524] = {Motivo = "Flw"}, -- troll
 	[2562940181] = {Motivo = "Flw"}, -- troll
 	[4708395311] = {Motivo = "Flw"}, -- ''eb lixo''
-	
+	[4249967360] = {Motivo = "Flw"}, -- troll setlevel all 0
+
+
 	
 	
 
