@@ -152,8 +152,8 @@ local Ban = {
 	[4249967360] = {Motivo = "Flw"}, -- troll setlevel all 0
 	[3372430267] = {Motivo = "Spammando REF"}, -- desban até lembrar, ban dia 17/11
 	[3059601545] = {Motivo = "Spammando REF"}, -- desban até lembrar, ban dia 17/11
-	[1929694886] = {Motivo = "Dando free"}, -- 
-	[4896351130] = {Motivo = "Recebendo free pra trollar"}, -- 
+	[1929694886] = {Motivo = "Venda de ranks"}, -- 
+	[4896351130] = {Motivo = "Compra de ranks"}, -- 
 
 
 	
