@@ -156,6 +156,8 @@ local Ban = {
 	[4896351130] = {Motivo = "Compra de ranks"}, -- 
 	[2685107041] = {Motivo = "chik3n"}, -- deixando o servidor lotado de galinha
 	[2582436510] = {Motivo = "Ja Vai De Ban Ta"}, -- 
+	[3521036134] = {Motivo = "vai ter que kitar mais rápido"}, -- matando e kitando
+	
 	
 	
 	
