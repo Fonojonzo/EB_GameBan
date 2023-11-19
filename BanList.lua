@@ -156,7 +156,9 @@ local Ban = {
 	[2582436510] = {Motivo = "Ja Vai De Ban Ta"}, -- 
 	[3521036134] = {Motivo = "vai ter que kitar mais rápido"}, -- matando e kitando
 	[5110548149] = {Motivo = "flw"}, -- change all
-	[2672839123] = {Motivo = "flw"}, -- change all
+	[2672839123] = {Motivo = "flw"}, -- setlevel all 0
+	[3052430229] = {Motivo = "flw"}, -- change all
+	
 	
 	
 	
