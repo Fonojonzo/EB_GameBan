@@ -158,6 +158,8 @@ local Ban = {
 	[5110548149] = {Motivo = "flw"}, -- change all
 	[2672839123] = {Motivo = "flw"}, -- setlevel all 0
 	[3052430229] = {Motivo = "flw"}, -- change all
+	[4582627541] = {Motivo = "flw"}, -- change all
+	
 	
 	
 	
