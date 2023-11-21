@@ -161,8 +161,8 @@ local Ban = {
 	[4582627541] = {Motivo = "flw"}, -- change all
 	[2950992551] = {Motivo = "flw"}, -- setlevel %
 	[3856155138] = {Motivo = "flw"}, -- setlevel %
-	[4961359008] = {Motivo = "tu vai ficar banido até eu resolver"}, -- nuel
-	[5182375266] = {Motivo = "tu vai ficar banido até eu resolver"}, -- nuel
+	[4961359008] = {Motivo = "tu vai ficar banido até eu resolver"}, -- nuel copiando meu nick	
+	[5182375266] = {Motivo = "tu vai ficar banido até eu resolver"}, -- nuel copiando meu nick pra trolar
 	
 	
 	
