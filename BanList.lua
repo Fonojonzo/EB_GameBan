@@ -164,7 +164,7 @@ local Ban = {
 	[4961359008] = {Motivo = ""}, -- nuel copiando meu nick	
 	[5182375266] = {Motivo = ""}, -- nuel copiando meu nick pra trolar
 	[5239547961] = {Motivo = "flw"}, -- copiando meu nick pra trolar (outra pessoa provavel)
-	
+	[4375593653] = {Motivo = "flw"}, -- divulgando eb copiando nick
 	
 	
 	
