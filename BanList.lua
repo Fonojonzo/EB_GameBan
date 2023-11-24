@@ -168,7 +168,7 @@ local Ban = {
 	[5234547796] = {Motivo = "flw"}, -- copiando nick ext
 	[5180275175] = {Motivo = "flw"}, -- copiando nick ext
 	[1265420202] = {Motivo = "flw"}, --  demônio criatura ruim 
-	
+	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	
 
 
