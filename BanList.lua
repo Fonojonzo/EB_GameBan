@@ -161,8 +161,6 @@ local Ban = {
 	[4582627541] = {Motivo = "flw"}, -- change all
 	[2950992551] = {Motivo = "flw"}, -- setlevel %
 	[3856155138] = {Motivo = "flw"}, -- setlevel %
-	[4961359008] = {Motivo = ""}, -- nuel copiando meu nick	
-	[5182375266] = {Motivo = ""}, -- nuel copiando meu nick pra trolar
 	[5239547961] = {Motivo = "flw"}, -- copiando meu nick pra trolar (outra pessoa provavel)
 	[4375593653] = {Motivo = "flw"}, -- divulgando eb copiando nick
 	[5234547796] = {Motivo = "flw"}, -- copiando nick ext
