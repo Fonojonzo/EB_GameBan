@@ -168,6 +168,7 @@ local Ban = {
 	[1265420202] = {Motivo = "flw"}, --  demônio criatura ruim 
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
+	[629259254] = {Motivo = "flw"}, --  divulgando eb
 	
 	
 
