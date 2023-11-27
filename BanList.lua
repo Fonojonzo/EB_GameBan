@@ -167,7 +167,6 @@ local Ban = {
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[629259254] = {Motivo = "flw"}, --   raihanhover
-	[4480758450] = {Motivo = "aguarde"}, --   bloxfruit
 	[5262217747] = {Motivo = "flw"}, --   pedido do faustino
 	
 
