@@ -151,7 +151,7 @@ local Ban = {
 	[4249967360] = {Motivo = "Flw"}, -- troll setlevel all 0
 	[1929694886] = {Motivo = "Venda de ranks"}, -- 
 	[4896351130] = {Motivo = "Compra de ranks"}, -- 
-	[2582436510] = {Motivo = "Ja Vai De Ban Ta"}, -- 
+	[2582436510] = {Motivo = "flw"}, -- epicboy
 	[3521036134] = {Motivo = "vai ter que kitar mais rápido"}, -- matando e kitando
 	[5110548149] = {Motivo = "flw"}, -- change all
 	[2672839123] = {Motivo = "flw"}, -- setlevel all 0
@@ -168,6 +168,7 @@ local Ban = {
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[629259254] = {Motivo = "flw"}, --   raihanhover
 	[5262217747] = {Motivo = "flw"}, --   pedido do faustino
+	[2414223724] = {Motivo = ""}, --   ofensa staff
 
 
 	
