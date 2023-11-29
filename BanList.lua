@@ -169,6 +169,8 @@ local Ban = {
 	[629259254] = {Motivo = "flw"}, --   raihanhover
 	[5262217747] = {Motivo = "flw"}, --   pedido do faustino
 	[2414223724] = {Motivo = ""}, --   ofensa staff
+	[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
+	
 
 
 	
