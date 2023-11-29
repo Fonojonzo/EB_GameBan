@@ -168,13 +168,8 @@ local Ban = {
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[629259254] = {Motivo = "flw"}, --   raihanhover
 	[5262217747] = {Motivo = "flw"}, --   pedido do faustino
-	[914914325] = {Motivo = "ofensa staff"}, --   xingando mãe dos outros
 
 
-	
-	
-	
-	
 	
 
 	
