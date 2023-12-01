@@ -163,7 +163,6 @@ local Ban = {
 	[4375593653] = {Motivo = "flw"}, -- divulgando eb copiando nick
 	[5234547796] = {Motivo = "flw"}, -- copiando nick ext
 	[5180275175] = {Motivo = "flw"}, -- copiando nick ext
-	[1265420202] = {Motivo = "irei remover o ban hoje"}, --  demônio criatura ruim 
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[1801974724] = {Motivo = "flw"}, --  divulgando eb
 	[629259254] = {Motivo = "flw"}, --   raihanhover
