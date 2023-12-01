@@ -170,7 +170,7 @@ local Ban = {
 	[5262217747] = {Motivo = "flw"}, --   pedido do faustino
 	[2414223724] = {Motivo = ""}, --   ofensa staff
 	[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
-	
+	[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 
 
 	
