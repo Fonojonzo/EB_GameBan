@@ -170,7 +170,7 @@ local Ban = {
 	[2414223724] = {Motivo = ""}, --   ofensa staff
 	[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 	[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
-	[2549858242] = {Motivo = "Aguarde"}, --   mandando foto sus /syygettd
+	[] = {Motivo = "Aguarde"}, --   
 
 	
 
