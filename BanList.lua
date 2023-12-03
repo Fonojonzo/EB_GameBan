@@ -172,8 +172,8 @@ local Ban = {
 	[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 	[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
 	[4329293773] = {Motivo = "sabe de nada"}, --   se metendo no ban do raiha sem saber do contexto
-	
-
+	[3412099974] = {Motivo = "flw"}, --   vendendo rank
+	[3434131597] = {Motivo = "flw"}, --   vendendo rank
 	
 }
 return Ban 
