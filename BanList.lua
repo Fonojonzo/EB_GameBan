@@ -171,7 +171,7 @@ local Ban = {
 	[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 	[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 	[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
-
+	[4329293773] = {Motivo = "sabe de nada"}, --   se metendo no ban do raiha sem saber do contexto
 	
 
 	
