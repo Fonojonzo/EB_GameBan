@@ -174,6 +174,7 @@ local Ban = {
 	[4329293773] = {Motivo = "sabe de nada"}, --   se metendo no ban do raiha sem saber do contexto
 	[3412099974] = {Motivo = "flw"}, --   vendendo rank
 	[3434131597] = {Motivo = "flw"}, --   vendendo rank
+	[4480758450] = {Motivo = "tomando decisões aguarde"}, --  
 	
 }
 return Ban 
