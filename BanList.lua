@@ -171,10 +171,10 @@ local Ban = {
 	[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 	[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 	[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
-	[4329293773] = {Motivo = "sabe de nada"}, --   se metendo no ban do raiha sem saber do contexto
 	[3412099974] = {Motivo = "flw"}, --   vendendo rank
 	[3434131597] = {Motivo = "flw"}, --   vendendo rank
 	[4480758450] = {Motivo = "tomando decisões aguarde"}, --  
 	[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
+	[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 }
 return Ban 
