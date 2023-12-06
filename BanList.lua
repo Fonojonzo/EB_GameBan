@@ -175,7 +175,6 @@ local Ban = {
 	[3412099974] = {Motivo = "flw"}, --   vendendo rank
 	[3434131597] = {Motivo = "flw"}, --   vendendo rank
 	[4480758450] = {Motivo = "tomando decisões aguarde"}, --  
-	[1553193232] = {Motivo = "flw"}, --   entrando dc pra trolar
 	[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 }
 return Ban 
