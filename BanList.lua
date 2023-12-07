@@ -173,7 +173,7 @@ local Ban = {
 	[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
 	[3412099974] = {Motivo = "flw"}, --   vendendo rank
 	[3434131597] = {Motivo = "flw"}, --   vendendo rank
-	[4480758450] = {Motivo = "tomando decisões aguarde"}, --  
+	[4480758450] = {Motivo = "flw"}, --  
 	[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 	[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 }
