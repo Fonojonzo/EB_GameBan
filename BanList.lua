@@ -3,16 +3,13 @@ local Ban = {
 	[1672825547] = {Motivo = "¿"}, -- cobaia do p3u
 	[1919390511] = {Motivo = "Wild fire all"},
 	[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
-	[417042351] = {Motivo = "troll"}, -- matando varias pessoas do nd
 	[3715134739] = {Motivo = "Unrank all, ban all"},
-	[2345451268] = {Motivo = "Acusando e tirando pat de todos falsamente."},
 	[4026779595] = {Motivo = "Banido."},
 	[1214755295] = {Motivo = "Spammando ref all."}, 
 	[3088948388] = {Motivo = "Tirando rank de geral, não volta mais."},
 	[3963271291] = {Motivo = "Gameban all, não volta mais."},
 	[4326175331] = {Motivo = "Joga na EB do P3U."},
 	[2521671238] = {Motivo = "Suspeita de infiltrado."},
-        [3000934539] = {Motivo = "Ameaçando"},
 	[4792740987] = {Motivo = "flw"}, -- xingando em girias 
 	[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
 	[3651064753] = {Motivo = "flw"},-- Gameleaks
@@ -20,7 +17,6 @@ local Ban = {
 	[4499219673] = {Motivo = "Abusando de comandos all."},
 	[840869435] = {Motivo = "Abusando de comandos all."},
 	[3673993643] = {Motivo = "Abusando de comandos all."},
-        [3008820693] = {Motivo = "amigo do p3u"},
 	[538629407] = {Motivo = "HeadAdmin all"},
 	[2521671238] = {Motivo = "Gameban all"},
 	[1767595032] = {Motivo = "respeito"}, -- desrespeitando todos e sendo toxico
@@ -47,8 +43,9 @@ local Ban = {
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
 	[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
-	[1833320201] = {Motivo = "flw"}, --
-	[3076686570] = {Motivo = ""}, -- baconteamforever
+	[1833320201] = {Motivo = "flw"}, -- lulumas
+	[1672162351] = {Motivo = "flw"}, -- bb_games21
+	[3076686570] = {Motivo = "flw"}, -- baconteamforever
 	[143220887] = {Motivo = "troll"}, -- dudu
 	[1449432756] = {Motivo = "troll"}, -- master
 	[2896747496] = {Motivo = "troll"}, -- junin
@@ -165,7 +162,7 @@ local Ban = {
 	[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
 	[3412099974] = {Motivo = "flw"}, --   vendendo rank
 	[3434131597] = {Motivo = "flw"}, --   vendendo rank
-	[4480758450] = {Motivo = "flw"}, --   assedio?
+	[4480758450] = {Motivo = "flw"}, --   Assédio?
 	[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 	[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 }
