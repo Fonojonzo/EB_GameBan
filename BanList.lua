@@ -47,7 +47,7 @@ local Ban = {
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
 	[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
 	[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
-	[1833320201] = {Motivo = "flw lulumas"}, --
+	[1833320201] = {Motivo = "flw"}, --
 	[3076686570] = {Motivo = ""}, -- baconteamforever
 	[143220887] = {Motivo = "troll"}, -- dudu
 	[1449432756] = {Motivo = "troll"}, -- master
@@ -71,10 +71,7 @@ local Ban = {
 	[1852822357] = {Motivo = ""}, -- uiui12332 tentando crashar eb 
 	[2644756576] = {Motivo = "Cria mais contas ai"}, -- HEYYOUWTH666 dando rank pra conta pra trollar
 	[4222984582] = {Motivo = "Venda de Rank"}, -- Vendendo rank DC
-	[3901109248] = {Motivo = "flw"}, -- 
 	[3762616235] = {Motivo = "pedido de um helper"}, --
-	[143220887]  = {Motivo = "ok"}, --
-	[3660136209] = {Motivo = "flw"}, --
 	[2457529575] = {Motivo = "flw"}, -- querendo atenção
 	[3869524902] = {Motivo = "flw"}, -- dando rank all
 	[4032941258] = {Motivo = "vai jogar p3u"}, -- dolinho_adm escravo do p3u
@@ -84,7 +81,6 @@ local Ban = {
 	[3200911739] = {Motivo = "Tentativa de Team all"}, -- team all
 	[3258287960] = {Motivo = "Ok"}, -- pegou uma copia do eb com c4 dentro e n sabia e veio se exibir contra nós
 	[365126610] = {Motivo = "flw"}, --  matando geral no v1 e no v2 troll com comando
-	[541267094] = {Motivo = "flw"}, --  
 	[694675746] = {Motivo = "R6 OTHERS"}, --  spammando r6 others
 	[4588347183] = {Motivo = "flw"}, --  amizade do helper atacando sem saber da historia
 	[3835512831] = {Motivo = "troll"}, -- comandos all spammando
@@ -100,8 +96,6 @@ local Ban = {
 	[11200494415] = {Motivo = "nem te conheço"}, -- doido q seguiu até o jogo de jujutsu falando q vc é filho dele
 	[5132741764] = {Motivo = "flw"}, -- ExTnoCreK
 	[2545572927] = {Motivo = "não fuja"}, -- achou que sair iria salvar a propria pele trol de comando all 
-	[4078842018] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
-	[3960556555] = {Motivo = "flw"}, -- troll matando geral aproveitando q n tem comandos 
 	[567239119] = {Motivo = "flw"}, -- exploit
 	[4880390024] = {Motivo = "flw"}, -- 300 ref em um player
 	[547614911] = {Motivo = "flw"}, -- comandos all
@@ -140,8 +134,6 @@ local Ban = {
 	[2451275596] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
 	[3048011540] = {Motivo = "Quer aprender vai para a escola."}, -- chatão
 	[3856155138] = {Motivo = "Flw"}, -- change all
-	[3830518780] = {Motivo = "Flw"}, -- mod all
-	[1025121351] = {Motivo = "Flw"}, -- mod all
 	[3138855555] = {Motivo = "Flw"}, -- troll
 	[1951978287] = {Motivo = "Flw"}, -- venda de rank
 	[2825273003] = {Motivo = "Flw"}, -- venda de rank
@@ -173,7 +165,7 @@ local Ban = {
 	[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
 	[3412099974] = {Motivo = "flw"}, --   vendendo rank
 	[3434131597] = {Motivo = "flw"}, --   vendendo rank
-	[4480758450] = {Motivo = "flw"}, --  
+	[4480758450] = {Motivo = "flw"}, --   assedio?
 	[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 	[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 }
