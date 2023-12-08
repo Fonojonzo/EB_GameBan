@@ -165,5 +165,6 @@ local Ban = {
 	[4480758450] = {Motivo = "flw"}, --   Assédio?
 	[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 	[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
+	[4920879894] = {Motivo = "flw"}, --   chatão falando de gamepass e no final n tinha tiro 15/12
 }
 return Ban 
