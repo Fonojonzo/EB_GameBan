@@ -168,5 +168,6 @@ local Ban = {
 	[4920879894] = {Motivo = "flw"}, --   chatão falando de gamepass e no final n tinha tiro 15/12
 	[5276320091] = {Motivo = "nop"}, --   usando change ,
 	[4026574233] = {Motivo = "flw"}, --   derrubando jogo v2
+	[3934549917] = {Motivo = "gastou robux atoa"}, --   dando admin all e fazendo graça com o amigo achando q so ia perder pat
 }
 return Ban 
