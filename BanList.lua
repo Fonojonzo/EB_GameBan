@@ -167,5 +167,6 @@ local Ban = {
 	[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 	[4920879894] = {Motivo = "flw"}, --   chatão falando de gamepass e no final n tinha tiro 15/12
 	[5276320091] = {Motivo = "nop"}, --   usando change ,
+	[4026574233] = {Motivo = "flw"}, --   derrubando jogo v2
 }
 return Ban 
