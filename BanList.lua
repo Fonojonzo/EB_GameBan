@@ -170,5 +170,6 @@ local Ban = {
 	[4026574233] = {Motivo = "flw"}, --   derrubando jogo v2
 	[3934549917] = {Motivo = "gastou robux atoa"}, --   dando admin all e fazendo graça com o amigo achando q so ia perder pat
 	[2940274388] = {Motivo = "ban sera removido apos tirar o nick"}, --   usando meu nick
+	[3615362678] = {Motivo = "flw"}, --   galinha?
 }
 return Ban 
