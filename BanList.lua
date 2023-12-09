@@ -172,6 +172,8 @@ local Ban = {
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
 		[36651812] = {Motivo = "Flw"}, 
+		[2240612447] = {Motivo = "Fracassado."}, 
+		
 		
 	},
 
