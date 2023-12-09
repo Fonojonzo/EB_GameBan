@@ -19,7 +19,6 @@ local Ban = {
 	[3673993643] = {Motivo = "Abusando de comandos all."},
 	[538629407] = {Motivo = "HeadAdmin all"},
 	[2521671238] = {Motivo = "Gameban all"},
-	[1767595032] = {Motivo = "respeito"}, -- desrespeitando todos e sendo toxico
 	[1251812064] = {Motivo = "volta ai"},
 	[3245277447] = {Motivo = "flw"}, -- abusando de comandos
 	[4285090732] = {Motivo = "abusa e quita"}, -- abusando de comandos
@@ -29,7 +28,6 @@ local Ban = {
 	[2315018739] = {Motivo = "flw"}, -- jail all mute all e quitou. 
 	[1150665955] = {Motivo = "flw"}, -- Char all capybara 10 vezes seguidas
 	[3894132506] = {Motivo = "Robox"}, -- abusando de comandos
-	[3762493870] = {Motivo = "Ameaçando adm"}, -- abusando de comandos/ameaçando adm
 	[3953873414] = {Motivo = "tome"}, -- flodando char all
 	[4539606985] = {Motivo = "Valeu falou"}, -- char all dance all bodyswap all abort all
 	[3451759931] = {Motivo = "Flw"}, -- team all, speed all, jail all
@@ -37,7 +35,7 @@ local Ban = {
 	[3220417851] = {Motivo = "Divulgando EB"}, -- Divulgando EB
 	[3419359846] = {Motivo = "Divulgando EB"}, -- Divulgando EB
 	[3445592223] = {Motivo = "Divulgando EB"}, -- EB que foi divulgada, amigo do suspeito com 3 amigos.
-	[1661860127] = {Motivo = "vamos pensar em desbanir quando deletar os emblemas"}, -- 
+	[1661860127] = {Motivo = "flw"}, -- usou comando de pegar emblemas e não os apagou do inv
 	[1265141659] = {Motivo = "flw"}, -- flodando jail all
 	[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
 	[517391900] = {Motivo = "flw"}, -- dando rank all no v2
