@@ -171,6 +171,7 @@ local Ban = {
 		[4769208627] = {Motivo = "Mande comprovante no meu privado."}, --   Falando que comprou gojo e me xingando, vou esperar o comprovante.
 		[2602020522] = {Motivo = "dando level para abuser"}, --   change abc
 		[5263747126] = {Motivo = "flw"}, --   change abc
+		[3059560613] = {Motivo = "flw"}, --   change abc
 		
 	},
 	['Ban_Amigos'] = {
@@ -180,6 +181,7 @@ local Ban = {
 		[5101433461] = {Motivo = "Fracassado."}, 
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 		[5263747126] = {Motivo = "flw"}, --   change abc
+		[3059560613] = {Motivo = "flw"}, --   change abc
 		
 		
 	},
