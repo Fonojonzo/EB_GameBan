@@ -169,7 +169,7 @@ local Ban = {
 		[3934549917] = {Motivo = "gastou robux atoa"}, --   dando admin all e fazendo graça com o amigo achando q so ia perder pat
 		[2940274388] = {Motivo = "ban sera removido apos tirar o nick"}, --   usando meu nick
 		[4769208627] = {Motivo = "Mande comprovante no meu privado."}, --   Falando que comprou gojo e me xingando, vou esperar o comprovante.
-		[2602020522] = {Motivo = "flw"}, --   change abc
+		[2602020522] = {Motivo = "dando level para abuser"}, --   change abc
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		
 	},
