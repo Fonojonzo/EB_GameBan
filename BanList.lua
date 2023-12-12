@@ -186,6 +186,8 @@ local Ban = {
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
+		[5281676202] = {Motivo = "flw"}, --   ban all
+		
 		
 		
 	},
