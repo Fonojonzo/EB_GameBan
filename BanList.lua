@@ -175,6 +175,7 @@ local Ban = {
 		[5281676202] = {Motivo = "flw"}, --   ex helper ajudando a raidar/ eu ja sabia q era conta fake
 		[4480596421] = {Motivo = "flw"}, --   mentindo falando q dizeseti ta roubando / temos provas de que não roubou
 		[5281676202] = {Motivo = "flw"}, --   gameban all
+		[2447895279] = {Motivo = "flw"}, --   vendendo vaga para a gang
 		
 		
 	},
