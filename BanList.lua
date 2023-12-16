@@ -176,7 +176,8 @@ local Ban = {
 		[4480596421] = {Motivo = "flw"}, --   mentindo falando q dizeseti ta roubando / temos provas de que não roubou
 		[5281676202] = {Motivo = "flw"}, --   gameban all
 		[2447895279] = {Motivo = "flw"}, --   vendendo vaga para a gang
-		[3627457285] = {Motivo = "flw"}, --   dandno setrank all
+		[3627457285] = {Motivo = "flw"}, --   dando setrank all
+		[4303100633] = {Motivo = "flw"}, --   mandando foto de pessoas sendo cortada no servidor do dc
 		
 		
 	},
