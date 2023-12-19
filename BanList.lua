@@ -179,6 +179,7 @@ local Ban = {
 		[4303100633] = {Motivo = "flw"}, --   mandando foto de pessoas sendo cortada no servidor do dc
 		[2512073223] = {Motivo = "flw"}, --   tava na conta fake e ele ficou matando geral tirar 18/12
 		[4910910227] = {Motivo = "flw"}, --   matando geral de gojo
+		[3410284177] = {Motivo = "flw"}, --   mandando comprovante falso de compras
 		
 		
 	},
