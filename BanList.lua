@@ -181,7 +181,7 @@ local Ban = {
 		[4910910227] = {Motivo = "flw"}, --   matando geral de gojo
 		[3410284177] = {Motivo = "flw"}, --   mandando comprovante falso de compras
 		[4132170652] = {Motivo = "flw"}, --   change abcd
-		[2692954000] = {Motivo = "noob"}, --   change abcd
+		[2692954000] = {Motivo = "noob"}, --   tentando fazer ameaças
 		
 	},
 	['Ban_Amigos'] = {
