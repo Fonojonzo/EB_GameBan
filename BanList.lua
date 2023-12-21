@@ -183,6 +183,7 @@ local Ban = {
 		[4132170652] = {Motivo = "flw"}, --   change abcd
 		[2692954000] = {Motivo = "noob"}, --   tentando fazer ameaças
 		[4979128725] = {Motivo = "noob"}, --   usando hack / usando comandos all
+		[5217165350] = {Motivo = "flw"}, --   atrapalhando recrutamentos se achando so porque tem gang tirar 27/12
 		
 	},
 	['Ban_Amigos'] = {
