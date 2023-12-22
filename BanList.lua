@@ -186,6 +186,7 @@ local Ban = {
 		[5217165350] = {Motivo = "flw"}, --   atrapalhando recrutamentos se achando so porque tem gang tirar 27/12
 		[1089651008] = {Motivo = "flw"}, --    fake gamepass 1k
 		[4148642620] = {Motivo = "flw"}, --    exploit
+		[3491134019] = {Motivo = "e você joga"}, -- cuspindo merdas sobre o jogo
 		
 	},
 	['Ban_Amigos'] = {
