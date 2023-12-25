@@ -188,7 +188,7 @@ local Ban = {
 		[1089651008] = {Motivo = "flw"}, --    fake gamepass 1k
 		[4148642620] = {Motivo = "flw"}, --    exploit
 		[3491134019] = {Motivo = "e você joga"}, -- cuspindo merdas sobre o jogo
-		
+		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
