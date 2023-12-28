@@ -190,8 +190,8 @@ local Ban = {
 		[4148642620] = {Motivo = "flw"}, --    exploit
 		[3491134019] = {Motivo = "e você joga"}, -- cuspindo merdas sobre o jogo
 		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
-		[2353849034] = {Motivo = "flw"}, -- tirar 28/12
 		[1471817770] = {Motivo = "flw"}, -- tirar 31/12
+		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
