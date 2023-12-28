@@ -192,6 +192,7 @@ local Ban = {
 		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
 		[1471817770] = {Motivo = "flw"}, -- tirar 31/12
 		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
+		[3667599085] = {Motivo = "flw"}, -- 
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
