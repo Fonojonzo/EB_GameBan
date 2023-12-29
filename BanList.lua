@@ -58,6 +58,7 @@ local Ban = {
 		[4062971306] = {Motivo = "Vendendo Rank"}, --
 		[2736511740] = {Motivo = "Vendendo Rank"}, --
 		[2986876754] = {Motivo = "Vendendo Rank"}, --
+		[3222541886] = {Motivo = "achei facil"}, -- xingando no dc
 		[3831547111] = {Motivo = "troll"}, --
 		[3781119726] = {Motivo = "devolvendo rank pra troll"}, --
 		[1331247549] = {Motivo = "flw"}, -- xingando as pessoas
