@@ -9,6 +9,7 @@ local Ban = {
 		[1214755295] = {Motivo = "Spammando ref all."}, 
 		[3088948388] = {Motivo = "Tirando rank de geral, não volta mais."},
 		[3963271291] = {Motivo = "Gameban all, não volta mais."},
+		[467371646] = {Motivo = "nob"},
 		[4326175331] = {Motivo = "Joga na EB do P3U."},
 		[2521671238] = {Motivo = "Suspeita de infiltrado."},
 		[4792740987] = {Motivo = "flw"}, -- xingando em girias 
