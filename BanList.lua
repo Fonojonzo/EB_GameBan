@@ -53,7 +53,6 @@ local Ban = {
 		[2254531874] = {Motivo = "troll"}, --
 		[4483766860] = {Motivo = "noob demais"}, -- tentando enganar adms / ofensa /
 		[4353029216] = {Motivo = "flw"}, -- derrubando jogo comando all
-		[2579583119] = {Motivo = "valeu da rubuq"}, -- jovem dos xingamentos
 		[3512931520] = {Motivo = "troll"}, -- usando comandos all
 		[4077843662] = {Motivo = "vendendo rank"}, -- vendendo rank
 		[4062971306] = {Motivo = "Vendendo Rank"}, --
@@ -93,20 +92,17 @@ local Ban = {
 		[2622901376] = {Motivo = "flw"}, -- cumplice do hack
 		[2022158641] = {Motivo = "cumplice3"}, -- cumplice do hack
 		[3974278173] = {Motivo = "flw"}, -- me pergunta que explico
-		[11200494415] = {Motivo = "nem te conheço"}, -- doido q seguiu até o jogo de jujutsu falando q vc é filho dele
 		[5132741764] = {Motivo = "flw"}, -- ExTnoCreK
 		[2545572927] = {Motivo = "não fuja"}, -- achou que sair iria salvar a propria pele trol de comando all 
 		[567239119] = {Motivo = "flw"}, -- exploit
 		[4880390024] = {Motivo = "flw"}, -- 300 ref em um player
 		[547614911] = {Motivo = "flw"}, -- comandos all
-		[2767616030] = {Motivo = "flw"}, -- foi tratado bem no pc porem apos ser descoberto surtou e xingou a todos e mais
 		[2622844300] = {Motivo = "flw"}, -- troll
 		[4348174677] = {Motivo = "flw"}, -- comandos all derrubando v3
-		[2203159747] = {Motivo = "flw"}, -- vendendo rank por conta de blox
+		[2203159747] = {Motivo = "flw"}, -- vendendo rank por conta de blox fruit
 		[3303801571] = {Motivo = "flw"}, -- troll  comandos all
 		[4966537079] = {Motivo = "nice"}, -- troll comandos all
 		[4495717136] = {Motivo = "flw"}, -- abrindo ticket para contar mentira do tipo :: comprei serverowner e n ganhei ::
-		[1159804589] = {Motivo = "corra n"}, -- troll falando que ia fazer acontecer no jogo porem quando apareci saiu
 		[1028612797] = {Motivo = "o maior abuser tomou ban de novo :)"}, -- troll ''maior abuser voltou'' etc
 		[1567378372] = {Motivo = "flw"}, -- troll
 		[4446134959]  = {Motivo = "N"}, -- p3u grupo
@@ -120,8 +116,6 @@ local Ban = {
 		[1852353089]  = {Motivo = "flw"}, -- ferpro_13
 		[4935074060]  = {Motivo = "flw"}, -- matando gera
 		[1551853094]  = {Motivo = "Gamepass"}, -- tentando enganar os helper
-		[2983325277]  = {Motivo = "eu te avisei"}, -- matando as pessoas do nada
-		[2403238884]  = {Motivo = "eu te avisei"}, --
 		[1833151628]  = {Motivo = "Venda de ranks"}, -- Vendendo rank
 		[2345466040]  = {Motivo = "rank all"}, -- rank all
 		[2005080308]  = {Motivo = "que pro"}, -- xingando donos
@@ -140,7 +134,6 @@ local Ban = {
 		[2825273003] = {Motivo = "Flw"}, -- venda de rank
 		[5139802524] = {Motivo = "Flw"}, -- troll
 		[2562940181] = {Motivo = "Flw"}, -- troll
-		[4708395311] = {Motivo = "Flw"}, -- ''eb lixo''
 		[4249967360] = {Motivo = "Flw"}, -- troll setlevel all 0
 		[1929694886] = {Motivo = "Venda de ranks"}, -- 
 		[4896351130] = {Motivo = "Compra de ranks"}, -- 
@@ -159,7 +152,6 @@ local Ban = {
 		[1801974724] = {Motivo = "flw"}, --  divulgando eb
 		[629259254] = {Motivo = "flw"}, --   raihanhover
 		[5262217747] = {Motivo = "flw"}, --   pedido do faustino
-		[2414223724] = {Motivo = ""}, --   ofensa staff
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 		[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 		[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
@@ -168,7 +160,6 @@ local Ban = {
 		[4480758450] = {Motivo = "flw"}, --   Assédio?
 		[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 		[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
-		[4920879894] = {Motivo = "flw"}, --   chatão falando de gamepass e no final n tinha tiro 15/12
 		[5276320091] = {Motivo = "nop"}, --   usando change ,
 		[4026574233] = {Motivo = "flw"}, --   derrubando jogo v2
 		[3934549917] = {Motivo = "gastou robux atoa"}, --   dando admin all e fazendo graça com o amigo achando q so ia perder pat
@@ -188,14 +179,12 @@ local Ban = {
 		[4132170652] = {Motivo = "flw"}, --   change abcd
 		[2692954000] = {Motivo = "noob"}, --   tentando fazer ameaças
 		[4979128725] = {Motivo = "noob"}, --   usando hack / usando comandos all
-		[5217165350] = {Motivo = "flw"}, --   atrapalhando recrutamentos se achando so porque tem gang tirar 27/12
 		[1089651008] = {Motivo = "flw"}, --    fake gamepass 1k
 		[4148642620] = {Motivo = "flw"}, --    exploit
 		[3491134019] = {Motivo = "e você joga"}, -- cuspindo merdas sobre o jogo
 		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
-		[1471817770] = {Motivo = "flw"}, -- tirar 31/12
 		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
-		[3667599085] = {Motivo = "flw"}, -- 
+
 
 	},
 	['Ban_Amigos'] = {
