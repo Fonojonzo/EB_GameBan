@@ -196,7 +196,7 @@ local Ban = {
 		[1471817770] = {Motivo = "flw"}, -- tirar 31/12
 		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
 		[3667599085] = {Motivo = "flw"}, -- 
-		[1513291266] = {Motivo = "ban removido apos tirar rank aguarde"}, -- falando que vai entrar github para remover ban
+		[1513291266] = {Motivo = "."}, -- falando que vai entrar github para remover ban
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
