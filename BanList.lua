@@ -151,7 +151,6 @@ local Ban = {
 		[5180275175] = {Motivo = "flw"}, -- copiando nick ext
 		[1801974724] = {Motivo = "flw"}, --  divulgando eb
 		[629259254] = {Motivo = "flw"}, --   raihanhover
-		[5262217747] = {Motivo = "flw"}, --   pedido do faustino
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 		[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 		[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
@@ -181,7 +180,7 @@ local Ban = {
 		[4979128725] = {Motivo = "noob"}, --   usando hack / usando comandos all
 		[1089651008] = {Motivo = "flw"}, --    fake gamepass 1k
 		[4148642620] = {Motivo = "flw"}, --    exploit
-		[3491134019] = {Motivo = "e você joga"}, -- cuspindo merdas sobre o jogo
+		[689475295] = {Motivo = "flw"}, -- comandos all
 		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
 		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
 		[3679442518] = {Motivo = "vlw"}, -- racismo
