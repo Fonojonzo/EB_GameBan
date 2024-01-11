@@ -184,7 +184,7 @@ local Ban = {
 		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
 		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
 		[3679442518] = {Motivo = "vlw"}, -- racismo
-		
+		[4248341308] = {Motivo = "flw"}, -- comprovante falso
 
 
 	},
