@@ -150,7 +150,6 @@ local Ban = {
 		[5234547796] = {Motivo = "flw"}, -- copiando nick ext
 		[5180275175] = {Motivo = "flw"}, -- copiando nick ext
 		[1801974724] = {Motivo = "flw"}, --  divulgando eb
-		[629259254] = {Motivo = "flw"}, --   raihanhover
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 		[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
 		[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
