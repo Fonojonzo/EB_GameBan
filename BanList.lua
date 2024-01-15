@@ -7,6 +7,7 @@ local Ban = {
 		[3715134739] = {Motivo = "Unrank all, ban all"},
 		[4026779595] = {Motivo = "Banido."},
 		[3579360483] = {Motivo = "flw"}, -- trolando no dc
+		[5223794406] = {Motivo = "flw"}, -- copiando nick
 		[2795159903] = {Motivo = "flw"}, -- xingando pessoas do nada no dc
 		[1214755295] = {Motivo = "Spammando ref all."}, 
 		[5024845723] = = {Motivo = "ai o comprovante"}, -- fingindo ser adm do server no dc
