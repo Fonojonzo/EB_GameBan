@@ -16,7 +16,7 @@ local Ban = {
 		[467371646] = {Motivo = "nob"},
 		[4931832440] = {Motivo = "nob"}, -- xingando os donos do nada no dc
 		[2662305921] = {Motivo = "nob"},
-		[3144438570] = {Motivo = "divulgando no dc"},
+		[3144438570] = {Motivo = "flw"}, -- divulgando no dc
 		[4326175331] = {Motivo = "Joga na EB do P3U."},
 		[2521671238] = {Motivo = "Suspeita de infiltrado."},
 		[4792740987] = {Motivo = "flw"}, -- xingando em girias 
