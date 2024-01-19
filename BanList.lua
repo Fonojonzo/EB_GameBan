@@ -2,7 +2,6 @@ local Ban = {
 	['Ban'] = { 
 		[3615676414] = {Motivo = "flw"}, -- p3u
 		[1672825547] = {Motivo = "¿"}, -- cobaia do p3u
-		[1968730428] = {Motivo = "flw"}, -- ex helper
 		[2963030044] = {Motivo = "flw"}, -- ex helper
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[1919390511] = {Motivo = "Wild fire all"},
@@ -210,7 +209,6 @@ local Ban = {
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ban all
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
-		[1968730428] = {Motivo = "flw"}, -- ex helper ed3
 		[2963030044] = {Motivo = "flw"}, -- ex helper
 		
 	},
