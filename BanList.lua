@@ -133,10 +133,10 @@ local Ban = {
 		[3360897701] = {Motivo = "que pro"}, -- permrank 160x
 		[3360897701] = {Motivo = "nob"}, -- raidando jogo
 		[4031192476] = {Motivo = "Setrank all"}, -- Setrank all
-		[15210477327] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, -- eb clone
-		[1163468836] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
-		[2054466194] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
-		[2451275596] = {Motivo = "EB CLONADA, EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
+		[15210477327] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, -- eb clone
+		[1163468836] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
+		[2054466194] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
+		[2451275596] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
 		[3048011540] = {Motivo = "Quer aprender vai para a escola."}, -- chatão
 		[3856155138] = {Motivo = "Flw"}, -- change all
 		[3138855555] = {Motivo = "Flw"}, -- troll
@@ -195,7 +195,7 @@ local Ban = {
 		[3679442518] = {Motivo = "vlw"}, -- racismo
 		[4248341308] = {Motivo = "flw"}, -- comprovante falso
 		[4928937023] = {Motivo = "flw"}, -- comprovante falso
-		
+		[4981342405] = {Motivo = "flw"}, -- derrubando server comando all lagando
 
 
 	},
