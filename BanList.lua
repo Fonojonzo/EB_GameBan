@@ -6,7 +6,7 @@ local Ban = {
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[1919390511] = {Motivo = "Wild fire all"},
 		[2721261430] = {Motivo = "Atenção que tanto queria"}, -- 25/01
-		[1835213349] = {Motivo = "Atenção que tanto queria"}, -- 25/01
+		[1835213349] = {Motivo = "flw"}, -- copiando nick extnocrak 
 		[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 		[3715134739] = {Motivo = "Unrank all, ban all"},
 		[4026779595] = {Motivo = "Banido."},
