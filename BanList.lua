@@ -16,10 +16,10 @@ local Ban = {
 		[5223794406] = {Motivo = "flw"}, -- copiando nick
 		[2795159903] = {Motivo = "flw"}, -- xingando pessoas do nada no dc
 		[1214755295] = {Motivo = "Spammando ref all."}, 
-		[5024845723] = = {Motivo = "ai o comprovante"}, -- fingindo ser adm do server no dc
+		[5024845723] = {Motivo = "ai o comprovante"}, -- fingindo ser adm do server no dc
 		[3088948388] = {Motivo = "Tirando rank de geral, não volta mais."},
 		[3963271291] = {Motivo = "Gameban all, não volta mais."},
-		[467371646] = {Motivo = "nob"},
+		[467371646]  = {Motivo = "nob"},
 		[4931832440] = {Motivo = "nob"}, -- xingando os donos do nada no dc
 		[2662305921] = {Motivo = "nob"},
 		[3144438570] = {Motivo = "flw"}, -- divulgando no dc
@@ -54,8 +54,8 @@ local Ban = {
 		[1661860127] = {Motivo = "flw"}, -- usou comando de pegar emblemas e não os apagou do inv
 		[1265141659] = {Motivo = "flw"}, -- flodando jail all
 		[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
-		[517391900] = {Motivo = "flw"}, -- dando rank all no v2
-		[263287460] = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
+		[517391900]  = {Motivo = "flw"}, -- dando rank all no v2
+		[263287460]  = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
 		[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
 		[1833320201] = {Motivo = "flw"}, -- lulumas
 		[1672162351] = {Motivo = "flw"}, -- bb_games21
