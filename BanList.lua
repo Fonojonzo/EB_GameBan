@@ -4,7 +4,6 @@ local Ban = {
 		[1672825547] = {Motivo = "¿"}, -- cobaia do p3u
 		[2963030044] = {Motivo = "flw"}, -- ex helper
 		[563210570] = {Motivo = "flw"}, -- trolando all
-		[785068132] = {Motivo = "flw"}, -- trolando all
 		[1919390511] = {Motivo = "Wild fire all"},
 		[2721261430] = {Motivo = "Atenção que tanto queria"}, -- 25/01
 		[1835213349] = {Motivo = "flw"}, -- copiando nick extnocrak 
