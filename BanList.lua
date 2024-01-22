@@ -3,6 +3,7 @@ local Ban = {
 		[3615676414] = {Motivo = "flw"}, -- p3u
 		[1672825547] = {Motivo = "¿"}, -- cobaia do p3u
 		[2963030044] = {Motivo = "flw"}, -- ex helper
+		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[1919390511] = {Motivo = "Wild fire all"},
 		[2721261430] = {Motivo = "Atenção que tanto queria"}, -- 25/01
