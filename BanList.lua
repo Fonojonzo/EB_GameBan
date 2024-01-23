@@ -199,7 +199,11 @@ local Ban = {
 		[4248341308] = {Motivo = "flw"}, -- comprovante falso
 		[4928937023] = {Motivo = "flw"}, -- comprovante falso
 		[4981342405] = {Motivo = "flw"}, -- derrubando server comando all lagando
-
+		[3752578760] = {Motivo = "flw"}, -- copiando mapa do jogo
+		[748889121] = {Motivo = "flw"}, -- copiando mapa do jogo
+		[2626832324] = {Motivo = "flw"}, -- copiando mapa do jogo
+		[1163468836] = {Motivo = "flw"}, -- copiando mapa do jogo
+		
 
 	},
 	['Ban_Amigos'] = {
