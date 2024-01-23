@@ -203,7 +203,8 @@ local Ban = {
 		[748889121] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[2626832324] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[1163468836] = {Motivo = "flw"}, -- copiando mapa do jogo
-		
+		[3355045005] = {Motivo = "flw"}, -- copiando mapa do jogo cumplice
+		[3235575265] = {Motivo = "flw"}, -- copiando mapa do jogo cumplice
 
 	},
 	['Ban_Amigos'] = {
