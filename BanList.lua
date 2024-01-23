@@ -110,6 +110,7 @@ local Ban = {
 		[567239119] = {Motivo = "flw"}, -- exploit
 		[4880390024] = {Motivo = "flw"}, -- 300 ref em um player
 		[547614911] = {Motivo = "flw"}, -- comandos all
+		[1668033975] = {Motivo = "solado"}, -- me seguiu pro caralho do outro jogo pra roubar meus drop
 		[2622844300] = {Motivo = "flw"}, -- troll
 		[4348174677] = {Motivo = "flw"}, -- comandos all derrubando v3
 		[2203159747] = {Motivo = "flw"}, -- vendendo rank por conta de blox fruit
