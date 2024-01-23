@@ -206,6 +206,8 @@ local Ban = {
 		[1163468836] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3355045005] = {Motivo = "flw"}, -- copiando mapa do jogo cumplice
 		[3235575265] = {Motivo = "flw"}, -- copiando mapa do jogo cumplice
+		[2806671217] = {Motivo = "flw"}, -- comprovante falso
+		
 
 	},
 	['Ban_Amigos'] = {
