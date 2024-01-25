@@ -7,7 +7,7 @@ local Ban = {
 		[5020740461] = {Motivo = "espere"}, -- saiu do nada 
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[1919390511] = {Motivo = "Wild fire all"},
-		[joaolokis193] = {Motivo = "Atenção que tanto queria"}, -- troll dc
+		[1449720480] = {Motivo = "Atenção que tanto queria"}, -- troll dc
 		[1835213349] = {Motivo = "flw"}, -- copiando nick extnocrak 
 		[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 		[3715134739] = {Motivo = "Unrank all, ban all"},
