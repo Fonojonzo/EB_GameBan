@@ -210,7 +210,7 @@ local Ban = {
 		[3355045005] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3235575265] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[2806671217] = {Motivo = "flw"}, -- comprovante falso
-		
+		[4511683976] = {Motivo = "flw"}, -- venda rank gang
 
 	},
 	['Ban_Amigos'] = {
