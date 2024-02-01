@@ -5,7 +5,8 @@ local Ban = {
 		[2963030044] = {Motivo = "flw"}, -- ex helper
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
-		[5020740461] = {Motivo = "espere"}, -- saiu do nada 
+		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
+		[5507416251] = {Motivo = "flw"}, -- trocando de conta no dc
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[1919390511] = {Motivo = "Wild fire all"},
 		[1449720480] = {Motivo = "Atenção que tanto queria"}, -- troll dc
