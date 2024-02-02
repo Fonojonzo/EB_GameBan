@@ -122,7 +122,7 @@ local Ban = {
 		[3303801571] = {Motivo = "flw"}, -- troll  comandos all
 		[4966537079] = {Motivo = "nice"}, -- troll comandos all
 		[4495717136] = {Motivo = "flw"}, -- abrindo ticket para contar mentira do tipo :: comprei serverowner e n ganhei ::
-		[1028612797] = {Motivo = "o maior abuser tomou ban de novo :)"}, -- troll ''maior abuser voltou'' etc
+		[1028612797] = {Motivo = "flw"}, -- troll ''maior abuser voltou'' etc
 		[1567378372] = {Motivo = "flw"}, -- troll
 		[4446134959]  = {Motivo = "N"}, -- p3u grupo
 		[3881342157]  = {Motivo = "O"}, -- p3u grupo
