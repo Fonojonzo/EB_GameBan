@@ -214,7 +214,9 @@ local Ban = {
 		[3235575265] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[2806671217] = {Motivo = "flw"}, -- comprovante falso
 		[4511683976] = {Motivo = "flw"}, -- venda rank gang
+		[159522675] = {Motivo = "flw"}, -- falando mal do dizeseti
 
+		
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
