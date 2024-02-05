@@ -44,6 +44,7 @@ local Ban = {
 		[3245277447] = {Motivo = "flw"}, -- abusando de comandos
 		[4285090732] = {Motivo = "abusa e quita"}, -- abusando de comandos
 		[4585395127] = {Motivo = "Flw"}, -- usando meu nick extnocrak
+		[3627457285] = {Motivo = "flw"}, 
 		[4513068499] = {Motivo = "flw"}, -- fake de algum doido
 		[1898375346] = {Motivo = "flw"}, -- Dando team pra todos civis
 		[2315018739] = {Motivo = "flw"}, -- jail all mute all e quitou. 
@@ -222,6 +223,7 @@ local Ban = {
 		[5275182514] = {Motivo = "Flw"}, 
 		[36651812] = {Motivo = "Flw"}, 
 		[2240612447] = {Motivo = "Fracassado."}, 
+		[3627457285] = {Motivo = "flw"}, 
 		[5101433461] = {Motivo = "Fracassado."}, 
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 		[5263747126] = {Motivo = "flw"}, --   change abc
