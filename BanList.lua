@@ -216,8 +216,7 @@ local Ban = {
 		[2806671217] = {Motivo = "flw"}, -- comprovante falso
 		[4511683976] = {Motivo = "flw"}, -- venda rank gang
 		[159522675] = {Motivo = "flw"}, -- falando mal do dizeseti
-
-		
+		[2384089789] = {Motivo = "Não foi boa ideia dar deslike "}, -- dando deslike no eb custom char assim que tomou ban por abusar
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
