@@ -9,6 +9,7 @@ local Ban = {
 		[5507416251] = {Motivo = "flw"}, -- trocando de conta no dc
 		[2601082506] = {Motivo = "flw"}, -- trocando de conta no dc
 		[563210570] = {Motivo = "flw"}, -- trolando all
+		[4035850120] = {Motivo = "flw"}, -- resolveu sair do eb e ficou dando gear pra varios player
 		[1919390511] = {Motivo = "Wild fire all"},
 		[1449720480] = {Motivo = "Atenção que tanto queria"}, -- troll dc
 		[1835213349] = {Motivo = "flw"}, -- copiando nick extnocrak 
