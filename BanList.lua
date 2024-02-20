@@ -16,6 +16,7 @@ local Ban = {
 		[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 		[3715134739] = {Motivo = "Unrank all, ban all"},
 		[4026779595] = {Motivo = "Banido."},
+		[118983542] = {Motivo = "A Atenção que tanto queria"},
 		[3708026159] = {Motivo = "Banido."}, -- fazendo graça no dc querendo atç
 		[3648371540] = {Motivo = "flw"}, -- xingando adm do nada no dc
 		[3579360483] = {Motivo = "flw"}, -- trolando no dc
