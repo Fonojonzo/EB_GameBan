@@ -219,6 +219,8 @@ local Ban = {
 		[2384089789] = {Motivo = "Não foi boa ideia dar deslike "}, -- dando deslike no eb custom char assim que tomou ban por abusar
 		[1244608487] = {Motivo = "eb clonada"}, -- eb clonada
 		[3209039131] = {Motivo = "eb clonada"}, -- eb clonada
+		[4975623840] = {Motivo = "racismo"}, -- racismo
+		
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
