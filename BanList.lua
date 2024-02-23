@@ -220,6 +220,8 @@ local Ban = {
 		[1244608487] = {Motivo = "eb clonada"}, -- eb clonada
 		[3209039131] = {Motivo = "eb clonada"}, -- eb clonada
 		[4975623840] = {Motivo = "racismo"}, -- racismo
+		[5184846984] = {Motivo = "trolle em outra EB"}, -- trollando civil sendo recrutado.
+		
 		
 	},
 	['Ban_Amigos'] = {
