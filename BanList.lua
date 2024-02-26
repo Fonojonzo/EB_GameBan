@@ -132,19 +132,12 @@ local Ban = {
 		[381507062]  = {Motivo = "flw"}, -- esquisito
 		[4523619512]  = {Motivo = "flw"}, -- raid
 		[1852353089]  = {Motivo = "flw"}, -- ferpro_13
-		[4935074060]  = {Motivo = "flw"}, -- matando gera
 		[1551853094]  = {Motivo = "Gamepass"}, -- tentando enganar os helper
 		[1833151628]  = {Motivo = "Venda de ranks"}, -- Vendendo rank
 		[2345466040]  = {Motivo = "rank all"}, -- rank all
-		[2005080308]  = {Motivo = "que pro"}, -- xingando donos
-		[3975161281] = {Motivo = "que pro"}, -- xingando donos
 		[3360897701] = {Motivo = "que pro"}, -- permrank 160x
 		[3360897701] = {Motivo = "nob"}, -- raidando jogo
 		[4031192476] = {Motivo = "Setrank all"}, -- Setrank all
-		[15210477327] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, -- eb clone
-		[1163468836] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
-		[2054466194] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
-		[2451275596] = {Motivo = "EB CLONADA EXCLUA A EB FAKE PARA SAIR DO BAN"}, --  eb clone
 		[3048011540] = {Motivo = "Quer aprender vai para a escola."}, -- chatão
 		[3856155138] = {Motivo = "Flw"}, -- change all
 		[3138855555] = {Motivo = "Flw"}, -- troll
@@ -169,11 +162,8 @@ local Ban = {
 		[5180275175] = {Motivo = "flw"}, -- copiando nick ext
 		[1801974724] = {Motivo = "flw"}, --  divulgando eb
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
-		[3181453821] = {Motivo = "Chama o Procon"}, -- Chato demais reclamando (gang esquisita)
-		[2549858242] = {Motivo = "flw"}, --  mandando fotos suspeita para os jogadores /ex helper syygettd
 		[3412099974] = {Motivo = "flw"}, --   vendendo rank
 		[3434131597] = {Motivo = "flw"}, --   vendendo rank
-		[4480758450] = {Motivo = "flw"}, --   Assédio?
 		[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 		[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 		[5276320091] = {Motivo = "nop"}, --   usando change ,
