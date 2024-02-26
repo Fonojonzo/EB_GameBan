@@ -61,7 +61,6 @@ local Ban = {
 		[1265141659] = {Motivo = "flw"}, -- flodando jail all
 		[1973218862] = {Motivo = "Mod all"}, -- mod all no v3
 		[517391900]  = {Motivo = "flw"}, -- dando rank all no v2
-		[263287460]  = {Motivo = "flw"}, -- report do master, falando que tava ferrando o jogo todo, voando exploitando trollando as ebs;
 		[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
 		[1833320201] = {Motivo = "flw"}, -- lulumas
 		[1672162351] = {Motivo = "flw"}, -- bb_games21
