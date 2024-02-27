@@ -189,7 +189,6 @@ local Ban = {
 		[1089651008] = {Motivo = "flw"}, --    fake gamepass 1k
 		[4148642620] = {Motivo = "flw"}, --    exploit
 		[689475295] = {Motivo = "flw"}, -- comandos all
-		[1529071948] = {Motivo = "flw"}, -- tentando forjar compra de jotaro
 		[1529071948] = {Motivo = "noob"}, -- acusando de roubo
 		[3679442518] = {Motivo = "vlw"}, -- racismo
 		[4248341308] = {Motivo = "flw"}, -- comprovante falso
@@ -202,7 +201,6 @@ local Ban = {
 		[3599602601] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3355045005] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3235575265] = {Motivo = "flw"}, -- copiando mapa do jogo
-		[2806671217] = {Motivo = "flw"}, -- comprovante falso
 		[4511683976] = {Motivo = "flw"}, -- venda rank gang
 		[159522675] = {Motivo = "flw"}, -- falando mal do dizeseti
 		[2384089789] = {Motivo = "Não foi boa ideia dar deslike "}, -- dando deslike no eb custom char assim que tomou ban por abusar
