@@ -6,7 +6,7 @@ local Ban = {
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
 		[5507416251] = {Motivo = "flw"}, -- trocando de conta no dc
-		[4325122085] = {Motivo = "flw"}, -- trollando game dando jail all q nem retardado
+		[4325122085] = {Motivo = "flw"}, -- dando jail all q nem retardado
 		[2601082506] = {Motivo = "flw"}, -- trocando de conta no dc
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[4035850120] = {Motivo = "flw"}, -- resolveu sair do eb e ficou dando gear pra varios player
