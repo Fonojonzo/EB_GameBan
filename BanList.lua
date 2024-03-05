@@ -8,7 +8,6 @@ local Ban = {
 		[5507416251] = {Motivo = "flw"}, -- trocando de conta no dc
 		[4325122085] = {Motivo = "flw"}, -- dando jail all q nem retardado
 		[2601082506] = {Motivo = "flw"}, -- trocando de conta no dc
-		[914914325] = {Motivo = "flw"}, -- pedrinhouuuuuuu
 		[3050985842] = {Motivo = "flw"}, -- 
 		[563210570] = {Motivo = "flw"}, -- trolando all
 		[3670248170] = {Motivo = "flw"}, -- usando comandos all
