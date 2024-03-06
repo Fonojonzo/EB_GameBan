@@ -1,7 +1,8 @@
 local Ban = {
 	['Ban'] = { 
 		[3615676414] = {Motivo = "flw"}, -- p3u
-		[1672825547] = {Motivo = "¿"}, -- cobaia do p3u
+		[1672825547] = {Motivo = "flw"}, -- cobaia do p3u
+		[5350699165] = {Motivo = "flw"}, -- cobaia do p3u
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
