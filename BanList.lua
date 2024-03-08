@@ -145,7 +145,7 @@ local Ban = {
 		[4031192476] = {Motivo = "Setrank all"}, -- Setrank all
 		[3048011540] = {Motivo = "Quer aprender vai para a escola."}, -- chatão
 		[3856155138] = {Motivo = "Flw"}, -- change all
-		[3138855555] = {Motivo = "Flw"}, -- troll
+		[3138855555] = {Motivo = "Flw"}, -- spam de comandos all
 		[1951978287] = {Motivo = "Flw"}, -- venda de rank
 		[2825273003] = {Motivo = "Flw"}, -- venda de rank
 		[5139802524] = {Motivo = "Flw"}, -- troll
