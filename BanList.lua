@@ -7,6 +7,7 @@ local Ban = {
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
 		[1466859253] = {Motivo = "flw"}, -- dando rank all
+		[3733387773] = {Motivo = "flw"}, -- participando de raid
 		[5507416251] = {Motivo = "flw"}, -- trocando de conta no dc
 		[4325122085] = {Motivo = "flw"}, -- dando jail all q nem retardado
 		[2601082506] = {Motivo = "flw"}, -- trocando de conta no dc
