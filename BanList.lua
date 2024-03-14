@@ -214,6 +214,7 @@ local Ban = {
 		[5184846984] = {Motivo = "trolle em outra EB"}, -- trollando civil sendo recrutado.
 		[3128682307] = {Motivo = "EB cópia."}, -- trollando civil sendo recrutado.
 		[3792299903] = {Motivo = "te odeio"}, -- xingando a eb
+		[4304106861] = {Motivo = "flw"}, -- comprovante falso
 		
 		
 		
