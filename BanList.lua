@@ -29,6 +29,7 @@ local Ban = {
 		[3088948388] = {Motivo = "Tirando rank de geral, não volta mais."},
 		[3963271291] = {Motivo = "Gameban all, não volta mais."},
 		[467371646]  = {Motivo = "nob"},
+		[3949335752] = {Motivo = "banimento temporario"},
 		[5038458884] = {Motivo = "flw"}, -- matando geral e saindo do jogo
 		[4931832440] = {Motivo = "nob"}, -- xingando os donos do nada no dc
 		[2662305921] = {Motivo = "nob"},
