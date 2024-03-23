@@ -96,6 +96,8 @@ local Ban = {
 		[4222984582] = {Motivo = "Venda de Rank"}, -- Vendendo rank DC
 		[3762616235] = {Motivo = "pedido de um helper"}, --
 		[2457529575] = {Motivo = "flw"}, -- querendo atenção
+		[2609687571] = {Motivo = "flw"}, -- querendo atenção dc
+		[3077916451] = {Motivo = "flw"}, -- querendo atenção dc 
 		[3869524902] = {Motivo = "flw"}, -- dando rank all
 		[4032941258] = {Motivo = "vai jogar p3u"}, -- dolinho_adm escravo do p3u
 		[3390343354] = {Motivo = "falta de robux"}, -- troll com all
