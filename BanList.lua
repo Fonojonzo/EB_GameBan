@@ -226,6 +226,7 @@ local Ban = {
 		[4275071222] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[1622331407] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[914914325] = {Motivo = "FLW"}, --  pedrinhouuuuuuu
+		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
@@ -240,8 +241,7 @@ local Ban = {
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
 		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
-
-		
+	
 	},
 
 }
