@@ -220,6 +220,10 @@ local Ban = {
 		[3792299903] = {Motivo = "te odeio"}, -- xingando a eb
 		[4304106861] = {Motivo = "flw"}, -- comprovante falso
 		[4910910227] = {Motivo = "falsa acusação no JAX"}, -- falsa acusação no jax e pix pro dizeseti
+		[1699860436] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
+		[2268875287] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
+		[4275071222] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
+		[1622331407] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
