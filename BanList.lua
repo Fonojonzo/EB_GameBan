@@ -225,6 +225,7 @@ local Ban = {
 		[2268875287] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[4275071222] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[1622331407] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
+		[914914325] = {Motivo = "FLW"}, --  pedrinhouuuuuuu
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
