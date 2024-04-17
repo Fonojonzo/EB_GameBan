@@ -230,7 +230,6 @@ local Ban = {
 		[5275182514] = {Motivo = "Flw"}, 
 		[36651812] = {Motivo = "Flw"}, 
 		[2240612447] = {Motivo = "Fracassado."}, 
-		[2606558822] = {Motivo = "Fracassado."}, 
 		[3627457285] = {Motivo = "flw"}, 
 		[4304106861] = {Motivo = "flw"},
 		[5101433461] = {Motivo = "Fracassado."}, 
