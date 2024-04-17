@@ -1,8 +1,8 @@
 local Ban = {
 	['Ban'] = { 
 		[3615676414] = {Motivo = "flw"}, -- Vitor
-		[1672825547] = {Motivo = "flw"}, -- cobaia do p3u
-		[5350699165] = {Motivo = "flw"}, -- cobaia do p3u
+		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
+		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
 		[1290575724] = {Motivo = "flw"}, -- esperando os 240
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
@@ -228,7 +228,6 @@ local Ban = {
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
-		[36651812] = {Motivo = "Flw"}, 
 		[2240612447] = {Motivo = "Fracassado."}, 
 		[3627457285] = {Motivo = "flw"}, 
 		[4304106861] = {Motivo = "flw"},
