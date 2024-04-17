@@ -240,6 +240,9 @@ local Ban = {
 		[5281676202] = {Motivo = "flw"}, --   ban all
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
+		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
+
+		
 	},
 
 }
