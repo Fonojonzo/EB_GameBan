@@ -185,7 +185,6 @@ local Ban = {
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ex helper ajudando a raidar/ eu ja sabia q era conta fake
-		[4480596421] = {Motivo = "flw"}, --   mentindo falando q dizeseti ta roubando / temos provas de que não roubou
 		[5281676202] = {Motivo = "flw"}, --   gameban all
 		[3627457285] = {Motivo = "flw"}, --   dando setrank all
 		[4303100633] = {Motivo = "flw"}, --   mandando foto de pessoas sendo cortada no servidor do dc
