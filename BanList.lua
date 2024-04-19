@@ -7,6 +7,7 @@ local Ban = {
 		[1290575724] = {Motivo = "flw"}, -- esperando os 240
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
+		[2945619702] = {Motivo = "flw"}, -- disse q era hack doido
 		[1466859253] = {Motivo = "flw"}, -- dando rank all
 		[2013493466] = {Motivo = "flw"}, -- querendo atenção
 		[2606558822] = {Motivo = "flw"}, -- escolheu ficar do lado do vitor
