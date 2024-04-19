@@ -230,6 +230,8 @@ local Ban = {
 		[5275182514] = {Motivo = "Flw"}, 
 		[2240612447] = {Motivo = "Fracassado."}, 
 		[3627457285] = {Motivo = "flw"}, 
+		[2013493466] = {Motivo = "flw"}, --  N3W_ANJO
+		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
 		[4304106861] = {Motivo = "flw"},
 		[5101433461] = {Motivo = "Fracassado."}, 
 		[2602020522] = {Motivo = "Flw"}, --  change abc
