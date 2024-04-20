@@ -2,12 +2,13 @@ local Ban = {
 	['Ban'] = { 
 		[3615676414] = {Motivo = "flw"}, -- Vitor
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
+		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
 		[1290575724] = {Motivo = "flw"}, -- esperando os 240
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
-		[2651039851] = {Motivo = "copiando nick"}, -- copiando meu nick
+		[2651039851] = {Motivo = "flw"}, -- copiando meu nick
 		[2945619702] = {Motivo = "flw"}, -- disse q era hack doido
 		[1466859253] = {Motivo = "flw"}, -- dando rank all
 		[2013493466] = {Motivo = "flw"}, -- querendo atenção
