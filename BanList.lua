@@ -27,6 +27,9 @@ local Ban = {
 		[1835213349] = {Motivo = "flw"}, -- copiando nick extnocrak 
 		[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 		[3715134739] = {Motivo = "Unrank all, ban all"},
+		[5405497753] = {Motivo = "flw"}, -- TOPGABBR
+		[13032042] = {Motivo = "flw"}, -- TOPGABBR
+		[2490018002] = {Motivo = "flw"}, -- TOPGABBR
 		[4026779595] = {Motivo = "Banido."},
 		[3708026159] = {Motivo = "Banido."}, -- fazendo graça no dc querendo atç
 		[3648371540] = {Motivo = "flw"}, -- xingando adm do nada no dc
