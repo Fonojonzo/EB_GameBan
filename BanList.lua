@@ -7,6 +7,8 @@ local Ban = {
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[3825452326] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
+		[4709685202] = {Motivo = "flw"}, -- fingindo comprar
+		[4728769606] = {Motivo = "flw"}, -- fingindo comprar
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
 		[1290575724] = {Motivo = "flw"}, -- esperando os 240
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
