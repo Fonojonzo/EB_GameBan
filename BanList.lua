@@ -236,6 +236,8 @@ local Ban = {
 		[1622331407] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[914914325] = {Motivo = "FLW"}, --  pedrinhouuuuuuu
 		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
+		[3128682307] = {Motivo = "EB COPIADA, APAGUE A EB PARA TIRAR O BAN"}, --   EB CLONE
+		
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
