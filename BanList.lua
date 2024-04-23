@@ -237,6 +237,8 @@ local Ban = {
 		[914914325] = {Motivo = "FLW"}, --  pedrinhouuuuuuu
 		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
 		[3128682307] = {Motivo = "EB COPIADA, APAGUE A EB PARA TIRAR O BAN"}, --   EB CLONE
+		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
+			
 		
 	},
 	['Ban_Amigos'] = {
@@ -254,6 +256,7 @@ local Ban = {
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
 		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
+		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
 	
 	},
 
