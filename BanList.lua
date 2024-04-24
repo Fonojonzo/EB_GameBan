@@ -4,7 +4,6 @@ local Ban = {
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
-		[3825452326] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
 		[4709685202] = {Motivo = "flw"}, -- fingindo comprar
@@ -238,6 +237,8 @@ local Ban = {
 		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
 		[3128682307] = {Motivo = "EB COPIADA, APAGUE A EB PARA TIRAR O BAN"}, --   EB CLONE
 		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
+		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
+		
 			
 		
 	},
@@ -257,6 +258,7 @@ local Ban = {
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
 		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
 		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
+		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
 	
 	},
 
