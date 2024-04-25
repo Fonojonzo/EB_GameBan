@@ -9,7 +9,6 @@ local Ban = {
 		[4709685202] = {Motivo = "flw"}, -- fingindo comprar
 		[4728769606] = {Motivo = "flw"}, -- fingindo comprar
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
-		[1290575724] = {Motivo = "flw"}, -- esperando os 240
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
 		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
 		[2651039851] = {Motivo = "flw"}, -- copiando meu nick
