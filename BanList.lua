@@ -238,7 +238,7 @@ local Ban = {
 		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
 		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
 		[4826162014] = {Motivo = "Vai correr atrás de mulher em outra EB."}, --   wanderson escravo da mandy
-		[5496751234] = {Motivo = "Comprovante falso."}, --   desbanir orangotango em uns 30 dias, ban dia 26/04
+		[5496751234] = {Motivo = "Comprovante falso."},
 		
 	},
 	['Ban_Amigos'] = {
