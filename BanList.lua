@@ -226,7 +226,7 @@ local Ban = {
 		[3128682307] = {Motivo = "EB cópia."}, -- trollando civil sendo recrutado.
 		[3792299903] = {Motivo = "te odeio"}, -- xingando a eb
 		[4304106861] = {Motivo = "flw"}, -- comprovante falso
-		[2700140081] = {Motivo = "flw"}, -- comprovante falso
+		[2700140081] = {Motivo = "Comprovante Falso."}, -- comprovante falso
 		[4910910227] = {Motivo = "falsa acusação no JAX"}, -- falsa acusação no jax e pix pro dizeseti
 		[1699860436] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[2268875287] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
