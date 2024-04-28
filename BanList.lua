@@ -212,7 +212,6 @@ local Ban = {
 		[4981342405] = {Motivo = "flw"}, -- derrubando server comando all lagando
 		[3752578760] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[748889121] = {Motivo = "flw"}, -- copiando mapa do jogo
-		[2626832324] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[1163468836] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3599602601] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3355045005] = {Motivo = "flw"}, -- copiando mapa do jogo
