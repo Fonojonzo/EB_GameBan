@@ -239,6 +239,9 @@ local Ban = {
 		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
 		[4826162014] = {Motivo = "Vai correr atrás de mulher em outra EB."}, --   wanderson escravo da mandy
 		[5496751234] = {Motivo = "Comprovante falso."},
+		[2389965328] = {Motivo = "Divulgando EB no discord"},
+
+		
 		
 	},
 	['Ban_Amigos'] = {
