@@ -240,8 +240,8 @@ local Ban = {
 		[4826162014] = {Motivo = "Vai correr atrás de mulher em outra EB."}, --   wanderson escravo da mandy
 		[5496751234] = {Motivo = "Comprovante falso."},
 		[2389965328] = {Motivo = "Divulgando EB no discord"},
-		[4588202359] = {Motivo = "Chantagem/ Clone da EB"}, --- Chantageando para ganhar cargo com cópia da EB
-		[3290770099] = {Motivo = "Chantagem/ Clone da EB"}, --- Chantageando para ganhar cargo com cópia da EB
+		[4588202359] = {Motivo = "Chantagem/ Clone da EB"}, -- Chantageando para ganhar cargo com cópia da EB
+		[3290770099] = {Motivo = "Chantagem/ Clone da EB"}, -- Chantageando para ganhar cargo com cópia da EB
 		
 	},
 	['Ban_Amigos'] = {
