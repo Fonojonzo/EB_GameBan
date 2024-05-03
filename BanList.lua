@@ -247,6 +247,7 @@ local Ban = {
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
+		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
 		[2240612447] = {Motivo = "Fracassado."}, 
 		[3627457285] = {Motivo = "flw"}, 
 		[2013493466] = {Motivo = "flw"}, --  N3W_ANJO
