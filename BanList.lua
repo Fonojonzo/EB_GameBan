@@ -226,9 +226,9 @@ local Ban = {
 		[2389965328] = {Motivo = "Divulgando EB no discord"},
 		[4588202359] = {Motivo = "Chantagem/ Clone da EB"}, -- Chantageando para ganhar cargo com cópia da EB
 		[3290770099] = {Motivo = "Chantagem/ Clone da EB"}, -- Chantageando para ganhar cargo com cópia da EB
-		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
+		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra --
 		[2984414856] = {Motivo = "EB CLONADA / EXCLUA A EB PARA TIRAR O BAN."}, -- trolando fingindo compra
-		
+		[2231263072] = {Motivo = "Fingindo comprar."}, -- trolando fingindo compra	
 		
 	},
 	['Ban_Amigos'] = {
