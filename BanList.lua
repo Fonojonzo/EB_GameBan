@@ -230,8 +230,8 @@ local Ban = {
 		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra --
 		[2984414856] = {Motivo = "EB CLONADA / EXCLUA A EB PARA TIRAR O BAN."}, -- trolando fingindo compra
 		[2231263072] = {Motivo = "Fingindo comprar."}, -- trolando fingindo compra	
-		[3777786906] = {Motivo = "Venda de Rank"}, --  venda de ranks	
-		
+		[3777786906] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo
+		[2932181115] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo	
 		
 	},
 	['Ban_Amigos'] = {
