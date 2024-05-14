@@ -5,6 +5,7 @@ local Ban = {
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
+		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5187929637] = {Motivo = "flw"}, -- hack
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
