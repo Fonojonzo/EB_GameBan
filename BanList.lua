@@ -232,6 +232,9 @@ local Ban = {
 		[2231263072] = {Motivo = "Fingindo comprar."}, -- trolando fingindo compra	
 		[3777786906] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo
 		[2932181115] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo	
+		[2680752356] = {Motivo = "flw"}, --  spam discord @vendedor
+
+		
 		
 	},
 	['Ban_Amigos'] = {
