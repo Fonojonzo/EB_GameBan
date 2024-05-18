@@ -8,6 +8,7 @@ local Ban = {
 		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5187929637] = {Motivo = "flw"}, -- hack
+		[4678929475] = {Motivo = "flw"}, -- destruindo mapa com newdex
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
 		[4709685202] = {Motivo = "flw"}, -- fingindo comprar
 		[4728769606] = {Motivo = "flw"}, -- fingindo comprar
