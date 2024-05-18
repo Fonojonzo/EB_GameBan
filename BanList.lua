@@ -11,6 +11,7 @@ local Ban = {
 		[4678929475] = {Motivo = "flw"}, -- destruindo mapa com newdex
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
 		[4709685202] = {Motivo = "flw"}, -- fingindo comprar
+		[4197354143] = {Motivo = "flw"}, -- exploit
 		[4728769606] = {Motivo = "flw"}, -- fingindo comprar
 		[4286249260] = {Motivo = "flw"}, -- abrindo ticket pra ficar xingando os adm atoa
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
