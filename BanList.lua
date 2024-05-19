@@ -235,6 +235,9 @@ local Ban = {
 		[3777786906] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo
 		[2932181115] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo	
 		[2680752356] = {Motivo = "flw"}, --  spam discord @vendedor
+		[1447871302] = {Motivo = "flw"}, --  spam discord @vendedor
+
+		
 
 		
 		
