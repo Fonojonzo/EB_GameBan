@@ -10,6 +10,7 @@ local Ban = {
 		[4057293811] = {Motivo = "motivo de suas ações?"}, -- querendo atenção dc
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5187929637] = {Motivo = "flw"}, -- hack
+		[5221206388] = {Motivo = "flw"}, --  all -99999
 		[4678929475] = {Motivo = "flw"}, -- destruindo mapa com newdex
 		[5350699165] = {Motivo = "flw"}, -- cobaia do vitor
 		[4709685202] = {Motivo = "flw"}, -- fingindo comprar
@@ -250,6 +251,7 @@ local Ban = {
 		[3627457285] = {Motivo = "flw"}, 
 		[2013493466] = {Motivo = "flw"}, --  N3W_ANJO
 		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
+		[5221206388] = {Motivo = "flw"}, --  all -99999
 		[4304106861] = {Motivo = "flw"},
 		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
 		[5101433461] = {Motivo = "Fracassado."}, 
