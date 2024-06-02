@@ -7,6 +7,7 @@ local Ban = {
 		[5551458487] = {Motivo = "flw"}, -- sannocrak
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
 		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
+		[5021357221] = {Motivo = "3dias"}, -- 3dias
 		[4057293811] = {Motivo = "motivo de suas ações?"}, -- querendo atenção dc
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5187929637] = {Motivo = "flw"}, -- hack
