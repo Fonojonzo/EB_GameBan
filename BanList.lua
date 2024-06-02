@@ -5,6 +5,7 @@ local Ban = {
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[5551458487] = {Motivo = "flw"}, -- sannocrak
+	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
 		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
 		[5021357221] = {Motivo = "3dias"}, -- 3dias
@@ -258,6 +259,7 @@ local Ban = {
 		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
 		[5101433461] = {Motivo = "Fracassado."}, 
 		[2602020522] = {Motivo = "Flw"}, --  change abc
+	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ban all
