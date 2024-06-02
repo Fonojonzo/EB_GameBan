@@ -68,6 +68,7 @@ local Ban = {
 		[4585395127] = {Motivo = "Flw"}, -- usando meu nick extnocrak
 		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
 		[1898375346] = {Motivo = "flw"}, -- Dando team pra todos civis
+		[4270599599] = {Motivo = "flw"}, -- comandos all
 		[2315018739] = {Motivo = "flw"}, -- jail all mute all e quitou. 
 		[1150665955] = {Motivo = "flw"}, -- Char all capybara 10 vezes seguidas
 		[3894132506] = {Motivo = "Robox"}, -- abusando de comandos
