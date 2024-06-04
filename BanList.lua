@@ -205,9 +205,12 @@ local Ban = {
 		[3752578760] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[748889121] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[1163468836] = {Motivo = "flw"}, -- copiando mapa do jogo
+		[4979128725] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3599602601] = {Motivo = "flw"}, -- copiando mapa do jogo
+		[1563959981] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3355045005] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[3235575265] = {Motivo = "flw"}, -- copiando mapa do jogo
+		[5844957264] = {Motivo = "flw"}, -- copiando mapa do jogo
 		[4511683976] = {Motivo = "flw"}, -- venda rank gang
 		[159522675] = {Motivo = "flw"}, -- falando mal do dizeseti
 		[2384089789] = {Motivo = "Não foi boa ideia dar deslike "}, -- dando deslike no eb custom char assim que tomou ban por abusar
