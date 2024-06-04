@@ -5,6 +5,7 @@ local Ban = {
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
+		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
 		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
 		[5021357221] = {Motivo = "flw"}, -- doente deu loopkill
@@ -262,12 +263,12 @@ local Ban = {
 		[5101433461] = {Motivo = "Fracassado."}, 
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
+		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ban all
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
-		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
 		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
 		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
 	
