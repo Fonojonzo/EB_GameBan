@@ -5,6 +5,7 @@ local Ban = {
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
+		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5391855892] = {Motivo = "flw"}, -- noob
 		[6007093228] = {Motivo = "flw"}, -- exploit
