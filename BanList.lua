@@ -267,6 +267,7 @@ local Ban = {
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
+		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ban all
