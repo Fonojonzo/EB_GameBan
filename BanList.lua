@@ -11,6 +11,7 @@ local Ban = {
 		[6007093228] = {Motivo = "flw"}, -- exploit
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
 		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
+		[3796178382] = {Motivo = "flw"}, -- matando geral e debochando
 		[5021357221] = {Motivo = "flw"}, -- doente deu loopkill
 		[4057293811] = {Motivo = "motivo de suas ações?"}, -- querendo atenção dc
 		[2217932328] = {Motivo = "flw"}, -- cumplice pedrinhouu
