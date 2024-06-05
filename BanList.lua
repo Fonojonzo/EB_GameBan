@@ -7,6 +7,7 @@ local Ban = {
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5391855892] = {Motivo = "flw"}, -- noob
+		[6007093228] = {Motivo = "flw"}, -- exploit
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
 		[991290335] = {Motivo = "ai oque você pediu"}, -- esquisito dc
 		[5021357221] = {Motivo = "flw"}, -- doente deu loopkill
