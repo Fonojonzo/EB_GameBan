@@ -6,6 +6,8 @@ local Ban = {
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
+		[2468019331] = {Motivo = "flw"}, -- juntando trio pra ficar matando 1 pessoa em loop no chute sem motivo algum e contando mentiras
+		[5708144582] = {Motivo = "flw"}, -- juntando trio pra ficar matando 1 pessoa em loop no chute sem motivo algum e contando mentiras
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5391855892] = {Motivo = "flw"}, -- noob
