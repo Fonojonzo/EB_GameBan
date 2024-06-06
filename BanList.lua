@@ -5,6 +5,7 @@ local Ban = {
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
+		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5391855892] = {Motivo = "flw"}, -- noob
@@ -270,6 +271,7 @@ local Ban = {
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
+		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ban all
