@@ -254,6 +254,8 @@ local Ban = {
 		[2680752356] = {Motivo = "flw"}, --  spam discord @vendedor
 		[1447871302] = {Motivo = "flw"}, --  spam discord @vendedor
 		[4968989291] = {Motivo = "Raindando EB parceiro"}, --  raidando eb do tropa
+		[4776724142] = {Motivo = "uga buga"}, --  mod all char all kitty all stun all
+		
 
 		
 		
