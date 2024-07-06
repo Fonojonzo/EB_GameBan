@@ -255,7 +255,7 @@ local Ban = {
 		[1447871302] = {Motivo = "flw"}, --  spam discord @vendedor
 		[4968989291] = {Motivo = "Raindando EB parceiro"}, --  raidando eb do tropa
 		[4674864032] = {Motivo = "Estorno"}, --  Estorno de compra helper no faustino
-		
+		[1273098665] = {Motivo = "Estorno"}, --  Estorno de compra helper no faustino
 
 		
 		
