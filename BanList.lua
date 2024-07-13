@@ -5,6 +5,8 @@ local Ban = {
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
+		[2819507474] = {Motivo = "flw"}, -- marcando
+		[4228091083] = {Motivo = "flw"}, -- marcando
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[2468019331] = {Motivo = "flw"}, -- juntando trio pra ficar matando 1 pessoa em loop no chute sem motivo algum e contando mentiras
