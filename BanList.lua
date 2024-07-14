@@ -14,6 +14,7 @@ local Ban = {
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[5391855892] = {Motivo = "flw"}, -- noob
+		[5140051990] = {Motivo = "flw"}, -- noob
 		[6007093228] = {Motivo = "flw"}, -- exploit
 		[1990414919] = {Motivo = "flw"}, -- nuca vali
 		[5799403433] = {Motivo = "flw"}, -- querendo atenção dc
