@@ -283,6 +283,7 @@ local Ban = {
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[5263747126] = {Motivo = "flw"}, --   change abc
+		[5140051990] = {Motivo = "flw"}, --   creators raidou eb
 		[3059560613] = {Motivo = "flw"}, --   change abc
 		[5281676202] = {Motivo = "flw"}, --   ban all
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
