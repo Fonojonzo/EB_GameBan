@@ -261,7 +261,8 @@ local Ban = {
 		[1273098665] = {Motivo = "Estorno"}, --  Estorno de compra helper no faustino
 		[4807495676] = {Motivo = "Tentativa de golpe"}, --  tentando ganhar rank com golpe
 		[3015852430] = {Motivo = "uga buga"}, --  mod all admin all comandos all
-
+		[5140051990] = {Motivo = "Ninguém gosta de você."}, --  ban others
+		
 		
 		
 	},
