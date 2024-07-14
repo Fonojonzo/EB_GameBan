@@ -289,6 +289,7 @@ local Ban = {
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
 		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
 		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
+		[5140051990] = {Motivo = "Ninguém gosta de você."}, --  ban others
 	
 	},
 
