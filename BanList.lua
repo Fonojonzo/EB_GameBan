@@ -4,7 +4,8 @@ local Ban = {
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
-		[5190930643] = {Motivo = "flw"}, -- ban
+		[5190930643] = {Motivo = "flw"}, -- troll
+		[4539432530] = {Motivo = "flw"}, -- fazendo graça so pra ter atenção
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
 		[2819507474] = {Motivo = "flw"}, -- marcando
 		[4228091083] = {Motivo = "flw"}, -- marcando
