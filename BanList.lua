@@ -263,6 +263,7 @@ local Ban = {
 		[4807495676] = {Motivo = "Tentativa de golpe"}, --  tentando ganhar rank com golpe
 		[3015852430] = {Motivo = "uga buga"}, --  mod all admin all comandos all
 		[5140051990] = {Motivo = "Ninguém gosta de você."}, --  ban others
+		[1963172764] = {Motivo = "flw"}, --  até o creators ser removido
 		
 		
 		
