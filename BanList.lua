@@ -7,6 +7,7 @@ local Ban = {
 		[5190930643] = {Motivo = "flw"}, -- troll
 		[4539432530] = {Motivo = "flw"}, -- fazendo graça so pra ter atenção
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
+		[1613538159] = {Motivo = "flw"}, -- marcando
 		[2819507474] = {Motivo = "flw"}, -- marcando
 		[4228091083] = {Motivo = "flw"}, -- marcando
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
