@@ -6,6 +6,7 @@ local Ban = {
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[5190930643] = {Motivo = "flw"}, -- troll
+		[2694738401] = {Motivo = "flw"}, -- atenção
 		[4539432530] = {Motivo = "flw"}, -- fazendo graça so pra ter atenção
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
 		[1613538159] = {Motivo = "flw"}, -- marcando
