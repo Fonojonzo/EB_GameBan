@@ -269,6 +269,7 @@ local Ban = {
 		[1963172764] = {Motivo = "flw"}, --  até o creators ser removido
 		[1957891150] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
 		[1511163794] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
+		[4633818363] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		
 		
 		
