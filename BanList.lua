@@ -271,6 +271,9 @@ local Ban = {
 		[1511163794] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
 		[4633818363] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[5028084966] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
+		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
+
+		
 		
 		
 	},
@@ -301,6 +304,7 @@ local Ban = {
 		[1957891150] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
 		[1511163794] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
 		[5028084966] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
+		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 	},
 
 }
