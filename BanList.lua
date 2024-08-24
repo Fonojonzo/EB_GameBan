@@ -51,7 +51,6 @@ local Ban = {
 		[3670248170] = {Motivo = "flw"}, -- usando comandos all
 		[1919390511] = {Motivo = "Wild fire all"},
 		[1449720480] = {Motivo = "Atenção que tanto queria"}, -- troll dc
-		[1835213349] = {Motivo = "flw"}, -- copiando nick extnocrak 
 		[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 		[3715134739] = {Motivo = "Unrank all, ban all"},
 		[5405497753] = {Motivo = "flw"}, -- TOPGABBR
