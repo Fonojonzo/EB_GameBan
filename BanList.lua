@@ -272,6 +272,7 @@ local Ban = {
 		[5028084966] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[4463991083] = {Motivo = "Ultrapassou Limite designado na gang"}, --  passou limite de membros na gang
+		[2710519623] = {Motivo = "Ultrapassou Limite designado na gang"}, --  passou limite de membros na gang
 
 		
 		
