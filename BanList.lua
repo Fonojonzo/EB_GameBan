@@ -43,7 +43,7 @@ local Ban = {
 		[2945619702] = {Motivo = "flw"}, -- disse q era hack doido
 		[1466859253] = {Motivo = "flw"}, -- dando rank all
 		[2013493466] = {Motivo = "flw"}, -- querendo atenção
-		[2606558822] = {Motivo = "flw"}, -- escolheu ficar do lado do vitor
+		[2606558822] = {Motivo = "flw"}, -- iarleykauan
 		[3733387773] = {Motivo = "flw"}, -- participando de raid
 		[5507416251] = {Motivo = "flw"}, -- trocando de conta no dc
 		[4325122085] = {Motivo = "flw"}, -- dando jail all q nem retardado
