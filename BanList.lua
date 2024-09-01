@@ -4,7 +4,8 @@ local Ban = {
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[982811126] = {Motivo = "flw"}, -- cumplice pedrinhouu
-		[3191701336] = {Motivo = "flw"}, -- noob
+		[3191701336] = {Motivo = "flw"}, -- lulumas
+		[2876983353] = {Motivo = "flw"}, -- renan pediu
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[5190930643] = {Motivo = "flw"}, -- troll
 		[1241918541] = {Motivo = "flw"}, -- troll
