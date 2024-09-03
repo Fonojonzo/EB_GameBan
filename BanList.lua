@@ -278,7 +278,7 @@ local Ban = {
 		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[4463991083] = {Motivo = "Ultrapassou Limite designado na gang"}, --  passou limite de membros na gang
 		[1405885256] = {Motivo = "Dando rank pra troll."}, --  dando rank pra troll
-		--[1492986313] = {Motivo = "Se passando pelo Fonojonzo"}, --  se passando por mim
+		[1581024251] = {Motivo = "flw"}, -- Comprovante falso
 	
 		
 	},
