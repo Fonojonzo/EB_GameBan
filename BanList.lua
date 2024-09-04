@@ -58,9 +58,6 @@ local Ban = {
 		[1449720480] = {Motivo = "Atenção que tanto queria"}, -- troll dc
 		[3380344108] = {Motivo = "Mutando todos do jogo e tirando patente"},
 		[3715134739] = {Motivo = "Unrank all, ban all"},
-		[5405497753] = {Motivo = "flw"}, -- TOPGABBR
-		[13032042] = {Motivo = "flw"}, -- TOPGABBR
-		[2490018002] = {Motivo = "flw"}, -- TOPGABBR
 		[3648371540] = {Motivo = "flw"}, -- xingando adm do nada no dc
 		[3579360483] = {Motivo = "flw"}, -- trolando no dc
 		[5223794406] = {Motivo = "flw"}, -- copiando nick
