@@ -9,7 +9,6 @@ local Ban = {
 		[2876983353] = {Motivo = "flw"}, -- renan pediu
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[5190930643] = {Motivo = "flw"}, -- troll
-		[1241918541] = {Motivo = "flw"}, -- troll
 		[2694738401] = {Motivo = "flw"}, -- atenção
 		[5626756597] = {Motivo = "flw"}, -- atenção
 		[4539432530] = {Motivo = "flw"}, -- fazendo graça so pra ter atenção
@@ -293,7 +292,6 @@ local Ban = {
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
-		[1241918541] = {Motivo = "flw"}, -- troll
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[5263747126] = {Motivo = "flw"}, --   change abc
