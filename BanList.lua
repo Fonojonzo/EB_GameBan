@@ -275,7 +275,9 @@ local Ban = {
 		[4463991083] = {Motivo = "Ultrapassou Limite designado na gang"}, --  passou limite de membros na gang
 		[1405885256] = {Motivo = "Dando rank pra troll."}, --  dando rank pra troll
 		[1581024251] = {Motivo = "flw"}, -- Comprovante falso
-	
+		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
+
+		
 		
 	},
 	['Ban_Amigos'] = {
@@ -306,6 +308,7 @@ local Ban = {
 		[1511163794] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
 		[5028084966] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
+		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
 	},
 
 }
