@@ -275,10 +275,7 @@ local Ban = {
 		[4463991083] = {Motivo = "Ultrapassou Limite designado na gang"}, --  passou limite de membros na gang
 		[1405885256] = {Motivo = "Dando rank pra troll."}, --  dando rank pra troll
 		[1581024251] = {Motivo = "flw"}, -- Comprovante falso
-		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
-		[3229794887] = {Motivo = "flw"}, -- venda de rank
-		
-		
+		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?	
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
