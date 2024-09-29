@@ -276,6 +276,7 @@ local Ban = {
 		[1405885256] = {Motivo = "Dando rank pra troll."}, --  dando rank pra troll
 		[1581024251] = {Motivo = "flw"}, -- Comprovante falso
 		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?	
+		[3500401730] = {Motivo = "oi adm"}, -- change  pat all oi adm	
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
