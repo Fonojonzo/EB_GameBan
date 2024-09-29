@@ -6,6 +6,7 @@ local Ban = {
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
 		[3191701336] = {Motivo = "flw"}, -- lulumas
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
+		[1378002505] = {Motivo = "cresce"}, -- matando pessoal
 		[2876983353] = {Motivo = "flw"}, -- renan pediu
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[5190930643] = {Motivo = "flw"}, -- troll
