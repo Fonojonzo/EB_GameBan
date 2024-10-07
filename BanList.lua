@@ -281,6 +281,8 @@ local Ban = {
 		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?	
 		[3500401730] = {Motivo = "oi adm"}, -- change  pat all oi adm	
 		[4067466971] = {Motivo = "FLW"}, -- setlevel all 699.99999999
+		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
+		
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
@@ -311,6 +313,7 @@ local Ban = {
 		[5028084966] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
+		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 	},
 
 }
