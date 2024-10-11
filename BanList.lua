@@ -197,6 +197,7 @@ local Ban = {
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 		[3412099974] = {Motivo = "flw"}, --   vendendo rank
 		[3434131597] = {Motivo = "flw"}, --   vendendo rank
+		[3620648614] = {Motivo = "flw"}, --   spam de r6 all
 		[1449909632] = {Motivo = "flw"}, --   entrando dc pra trolar
 		[5137951861] = {Motivo = "flw"}, --   pedido do cookiew usando comandos all
 		[5276320091] = {Motivo = "nop"}, --   usando change ,
@@ -296,6 +297,7 @@ local Ban = {
 		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
 		[5101433461] = {Motivo = "Fracassado."}, 
 		[2602020522] = {Motivo = "Flw"}, --  change abc
+		[3620648614] = {Motivo = "flw"}, --   spam de r6 all
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
