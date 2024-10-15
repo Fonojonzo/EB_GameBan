@@ -283,6 +283,8 @@ local Ban = {
 		[3500401730] = {Motivo = "oi adm"}, -- change  pat all oi adm	
 		[4067466971] = {Motivo = "FLW"}, -- setlevel all 699.99999999
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
+		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
+		
 		
 	},
 	['Ban_Amigos'] = {
