@@ -4,6 +4,7 @@ local Ban = {
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
+		[1107928026] = {Motivo = "flw"}, -- ofendendo os membros da minha equipe
 		[3191701336] = {Motivo = "flw"}, -- lulumas
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
 		[3094400777] = {Motivo = "flw"}, -- exploit
