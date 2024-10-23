@@ -193,6 +193,7 @@ local Ban = {
 		[5239547961] = {Motivo = "flw"}, -- copiando meu nick pra trolar (outra pessoa provavel)
 		[4375593653] = {Motivo = "flw"}, -- divulgando eb copiando nick
 		[5234547796] = {Motivo = "flw"}, -- copiando nick ext
+		[1885818095] = {Motivo = "flw"}, -- ofensa a adm
 		[5180275175] = {Motivo = "flw"}, -- copiando nick ext
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 		[3412099974] = {Motivo = "flw"}, --   vendendo rank
@@ -300,6 +301,7 @@ local Ban = {
 		[4304106861] = {Motivo = "flw"},
 		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
 		[5101433461] = {Motivo = "Fracassado."}, 
+		[1885818095] = {Motivo = "flw"}, -- ofensa a adm
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 		[3620648614] = {Motivo = "flw"}, --   spam de r6 all
 	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
