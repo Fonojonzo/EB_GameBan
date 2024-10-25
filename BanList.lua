@@ -288,6 +288,8 @@ local Ban = {
 		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
 		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		
 
 		
 		
