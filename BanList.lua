@@ -286,6 +286,8 @@ local Ban = {
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
+		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 
 		
 		
