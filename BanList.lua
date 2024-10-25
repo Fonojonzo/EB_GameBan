@@ -289,6 +289,8 @@ local Ban = {
 		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		[4969615566] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		
 		
 
 		
