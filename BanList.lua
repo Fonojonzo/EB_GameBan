@@ -285,7 +285,9 @@ local Ban = {
 		[4067466971] = {Motivo = "FLW"}, -- setlevel all 699.99999999
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
-		[943281] = {Motivo = "."}, -- matando com gear em kitando (laser)
+		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
+
+		
 		
 		
 		
@@ -322,6 +324,7 @@ local Ban = {
 		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
+		[2710519623] = {Motivo = "troll"}, -- van all destroiu v3 btools
 	},
 
 }
