@@ -12,6 +12,7 @@ local Ban = {
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[5190930643] = {Motivo = "flw"}, -- troll
 		[2694738401] = {Motivo = "flw"}, -- atenção
+		[3613674246] = {Motivo = "falta de respeito com adm"}, -- matando jogadores sem motivo toda hora e saindo do jogo /xingando uriel
 		[5626756597] = {Motivo = "flw"}, -- atenção
 		[4539432530] = {Motivo = "flw"}, -- fazendo graça so pra ter atenção
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
