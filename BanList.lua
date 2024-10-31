@@ -326,6 +326,7 @@ local Ban = {
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
+		[3108673472] = {Motivo = "flw"}, --   AMIGOS DO IDK
 		[5281676202] = {Motivo = "flw"}, --   ban all
 		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
 		[2606558822] = {Motivo = "Flw"}, --   Ban all nuke all, iarley que foi pro p3u
