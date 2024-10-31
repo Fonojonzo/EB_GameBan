@@ -9,6 +9,7 @@ local Ban = {
 		[3108673472] = {Motivo = "flw"}, -- IDK
 		[4236981586] = {Motivo = "flw"}, -- cumplices
 		[4920879894] = {Motivo = "flw"}, -- cumplices
+		[1119783465] = {Motivo = "flw"}, -- cumplices
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
 		[7385175009] = {Motivo = "ofensa staff"}, -- xingando akira
 		[3094400777] = {Motivo = "flw"}, -- exploit
