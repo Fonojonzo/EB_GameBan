@@ -7,6 +7,7 @@ local Ban = {
 		[3191701336] = {Motivo = "flw"}, -- lulumas
 		[2405994104] = {Motivo = "5 dias"}, -- rafabonito13///////////
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
+		[7385175009] = {Motivo = "ofensa staff"}, -- xingando akira
 		[3094400777] = {Motivo = "flw"}, -- exploit
 		[1378002505] = {Motivo = "cresce"}, -- matando pessoal
 		[2876983353] = {Motivo = "flw"}, -- renan pediu
