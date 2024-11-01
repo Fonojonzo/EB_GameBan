@@ -8,6 +8,7 @@ local Ban = {
 		[2405994104] = {Motivo = "5 dias"}, -- rafabonito13///////////
 		[3108673472] = {Motivo = "flw"}, -- IDK - banwave
 		[4236981586] = {Motivo = "flw"}, -- banwave
+		[3360408071] = {Motivo = "flw"}, -- banwave
 		[4920879894] = {Motivo = "flw"}, -- banwave
 		[1119783465] = {Motivo = "flw"}, -- banwave
 		[1393711887] = {Motivo = "flw"}, -- banwave
