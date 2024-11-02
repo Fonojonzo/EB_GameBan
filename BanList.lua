@@ -3,6 +3,7 @@ local Ban = {
 		[3615676414] = {Motivo = "flw"}, -- Vitor
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
+		[3662614361] = {Motivo = "flw"}, -- copiando nick
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
 		[3191701336] = {Motivo = "flw"}, -- lulumas
 		[2405994104] = {Motivo = "5 dias"}, -- rafabonito13///////////
