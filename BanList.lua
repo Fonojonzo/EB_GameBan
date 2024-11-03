@@ -1,6 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 		[3615676414] = {Motivo = "flw"}, -- Vitor
+		[1972731647] = {Motivo = "flw"}, -- raul
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
