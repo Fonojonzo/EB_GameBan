@@ -7,7 +7,6 @@ local Ban = {
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
 		[3191701336] = {Motivo = "flw"}, -- lulumas
-		[2405994104] = {Motivo = "5 dias"}, -- rafabonito13///////////
 		[3108673472] = {Motivo = "flw"}, -- IDK - banwave
 		[4236981586] = {Motivo = "flw"}, -- banwave
 		[3360408071] = {Motivo = "flw"}, -- banwave
