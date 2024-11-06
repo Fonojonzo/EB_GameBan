@@ -15,7 +15,6 @@ local Ban = {
 		[1119783465] = {Motivo = "flw"}, -- banwave
 		[1393711887] = {Motivo = "flw"}, -- banwave
 		[1699860436] = {Motivo = "flw"}, -- banwave - conta fake
-		[2579583119] = {Motivo = "achei você"}, -- banwave 
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
 		[3672612877] = {Motivo = "flw"}, -- vendendo rank
 		[7385175009] = {Motivo = "ofensa staff"}, -- xingando akira
