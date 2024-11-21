@@ -5,7 +5,7 @@ local Ban = {
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
-		[1702198434] = {Motivo = "flw"}, -- racismo
+		[1702198434] = {Motivo = "R"}, -- racismo
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
 		[3191701336] = {Motivo = "flw"}, -- lulumas
 		[3108673472] = {Motivo = "flw"}, -- IDK - banwave
@@ -17,7 +17,7 @@ local Ban = {
 		[1699860436] = {Motivo = "flw"}, -- banwave - conta fake
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
 		[3672612877] = {Motivo = "flw"}, -- vendendo rank
-		[7385175009] = {Motivo = "ofensa staff"}, -- xingando akira
+		[7385175009] = {Motivo = "flw"}, -- xingando akira
 		[3094400777] = {Motivo = "flw"}, -- exploit
 		[1378002505] = {Motivo = "cresce"}, -- matando pessoal
 		[2876983353] = {Motivo = "flw"}, -- renan pediu
