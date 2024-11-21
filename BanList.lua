@@ -5,6 +5,7 @@ local Ban = {
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
+		[1702198434] = {Motivo = "flw"}, -- racismo
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
 		[3191701336] = {Motivo = "flw"}, -- lulumas
 		[3108673472] = {Motivo = "flw"}, -- IDK - banwave
