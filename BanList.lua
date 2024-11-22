@@ -306,6 +306,8 @@ local Ban = {
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[4969615566] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		[1613216746] = {Motivo = "flw"}, -- quebrou diversas regras.
+		
 		--[1449978472] = {Motivo = "Clonando coisas EB"}, -- Clonando coisas da EB para fazer um jogo cópia.
 		
 		
