@@ -19,6 +19,7 @@ local Ban = {
 		[3672612877] = {Motivo = "flw"}, -- vendendo rank
 		[7385175009] = {Motivo = "flw"}, -- xingando akira
 		[3094400777] = {Motivo = "flw"}, -- exploit
+		[5301022151] = {Motivo = "flw"}, -- uso de comandos all v2
 		[1378002505] = {Motivo = "cresce"}, -- matando pessoal
 		[2876983353] = {Motivo = "flw"}, -- renan pediu
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
