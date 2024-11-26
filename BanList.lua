@@ -1,5 +1,6 @@
 local Ban = {
 	['Ban'] = { 
+		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		--[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
 		[3615676414] = {Motivo = "flw"}, -- Vitor
 		[1972731647] = {Motivo = "flw"}, -- raul
