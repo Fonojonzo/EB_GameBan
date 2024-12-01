@@ -7,6 +7,7 @@ local Ban = {
 		[1972731647] = {Motivo = "flw"}, -- raul
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
+		[7251831547] = {Motivo = "flw"}, -- comando de esticar personagem all
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
 		[1702198434] = {Motivo = "R"}, -- racismo
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
