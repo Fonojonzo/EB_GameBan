@@ -3,6 +3,7 @@ local Ban = {
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		--[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
 		[3615676414] = {Motivo = "flw"}, -- Vitor
+		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
 		[1972731647] = {Motivo = "flw"}, -- raul
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
