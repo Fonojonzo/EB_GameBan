@@ -128,6 +128,7 @@ local Ban = {
 		[1833320201] = {Motivo = "flw"}, -- lulumas
 		[1672162351] = {Motivo = "flw"}, -- bb_games21
 		[4353003499] = {Motivo = "flw"}, -- Sunzinha_roxa ameaçando raiha, vazar coisas
+		[1241918541] = {Motivo = "Olá"}, -- jianbros
 		[3076686570] = {Motivo = "flw"}, -- baconteamforever
 		[143220887] = {Motivo = "troll"}, -- dudu
 		[1449432756] = {Motivo = "troll"}, -- master
