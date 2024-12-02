@@ -332,7 +332,6 @@ local Ban = {
 		[3627457285] = {Motivo = "flw"}, 
 		[2013493466] = {Motivo = "flw"}, --  N3W_ANJO
 		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
-		[4353003499] = {Motivo = "flw"}, --  ameaçando raiha
 		[5221206388] = {Motivo = "flw"}, --  all -99999
 		[4304106861] = {Motivo = "flw"},
 		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
