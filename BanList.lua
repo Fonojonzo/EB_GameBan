@@ -6,6 +6,7 @@ local Ban = {
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
 		[1972731647] = {Motivo = "flw"}, -- raul
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
+		[5813781045] = {Motivo = "flw"}, -- ofendendo varios jogadores e dono
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[7251831547] = {Motivo = "flw"}, -- comando de esticar personagem all
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
