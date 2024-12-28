@@ -100,7 +100,7 @@ local Ban = {
 		[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
 		[3651064753] = {Motivo = "flw"},-- Gameleaks
 		[4343226099] = {Motivo = "flw"}, -- raid comandos all
-		[724152595] = {Motivo = "flw"},-- 
+		[724152595] = {Motivo = "flw"},-- possui copias
 		[4933481732] = {Motivo = "flw"},-- xingando no dc
 		[4499219673] = {Motivo = "Abusando de comandos all."},
 		[840869435] = {Motivo = "Abusando de comandos all."},
