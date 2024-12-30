@@ -4,7 +4,7 @@ local Ban = {
 		[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
 		[3615676414] = {Motivo = "flw"}, -- Vitor
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
-		[1972731647] = {Motivo = "flw"}, -- raul
+		[1972731647] = {Motivo = "flw"}, -- fazendo coisas duvidosas, tenho print
 		[1916700451] = {Motivo = "ok"}, -- quer ban nob, literal pediu
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[5813781045] = {Motivo = "flw"}, -- ofendendo varios jogadores e dono
