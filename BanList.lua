@@ -129,6 +129,7 @@ local Ban = {
 		[517391900]  = {Motivo = "flw"}, -- dando rank all no v2
 		[3375177854] = {Motivo = "Crime virtual"}, -- Assédio online?
 		[1833320201] = {Motivo = "flw"}, -- lulumas
+		[3510945661] = {Motivo = "flw"}, -- Kaze_ios
 		[1672162351] = {Motivo = "flw"}, -- bb_games21
 		[4353003499] = {Motivo = "flw"}, -- Sunzinha_roxa ameaçando raiha, vazar coisas
 		[1241918541] = {Motivo = "Olá"}, -- jianbros
