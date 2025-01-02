@@ -95,6 +95,7 @@ local Ban = {
 		[1833320201] = {Motivo = "flw"}, -- lulumas
 		[3510945661] = {Motivo = "flw"}, -- Kaze_ios
 		[1672162351] = {Motivo = "flw"}, -- bb_games21
+		[5458390652] = {Motivo = "sim"}, -- sunzinha novamente
 		[4353003499] = {Motivo = "flw"}, -- Sunzinha_roxa ameaçando raiha, vazar coisas
 		[1241918541] = {Motivo = "Olá"}, -- jianbros
 		[143220887] = {Motivo = "troll"}, -- dudu
@@ -244,7 +245,6 @@ local Ban = {
 		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
 		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
-		[5458390652] = {Motivo = "sim"}, -- sunzinha novamente
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[4969615566] = {Motivo = "Venda de cargos."}, -- venda de cargos
