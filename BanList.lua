@@ -212,7 +212,6 @@ local Ban = {
 		[4275071222] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[1622331407] = {Motivo = "FLW"}, -- fingindo que iria comprar algo
 		[914914325] = {Motivo = "FLW"}, --  pedrinhouuuuuuu
-		[1699860436] = {Motivo = "Flw"}, --   fingindo comprar algo
 		[3128682307] = {Motivo = "EB COPIADA, APAGUE A EB PARA TIRAR O BAN"}, --   EB CLONE
 		[1209522522] = {Motivo = "ninguém gosta de você"}, --   alguém dando gameban all
 		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
@@ -245,6 +244,7 @@ local Ban = {
 		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
 		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		[5458390652] = {Motivo = "sim"}, -- sunzinha novamente
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[4969615566] = {Motivo = "Venda de cargos."}, -- venda de cargos
@@ -266,7 +266,6 @@ local Ban = {
 		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
 		[2240612447] = {Motivo = "Fracassado."}, 
 		[3627457285] = {Motivo = "flw"}, 
-		[2013493466] = {Motivo = "flw"}, --  N3W_ANJO
 		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
 		[5221206388] = {Motivo = "flw"}, --  all -99999
 		[4304106861] = {Motivo = "flw"},
@@ -290,8 +289,6 @@ local Ban = {
 		[5140051990] = {Motivo = "Ninguém gosta de você."}, --  ban others
 		[1957891150] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
 		[1511163794] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
-		[5028084966] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
-		[6213921894] = {Motivo = "ninguém gosta de você"}, --  trollando com comando all
 		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 		[2710519623] = {Motivo = "troll"}, -- van all destroiu v3 btools
