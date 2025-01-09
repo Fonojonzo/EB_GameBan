@@ -158,6 +158,9 @@ local Ban = {
 		[4249967360] = {Motivo = "Flw"}, -- troll setlevel all 0
 		[1929694886] = {Motivo = "Venda de ranks"}, -- 
 		[4896351130] = {Motivo = "Compra de ranks"}, -- 
+		[4015026312] = {Motivo = "bug"}, -- se upando para conseguir adm e remover ban
+		[1701003902] = {Motivo = "bug"}, -- se upando para conseguir adm e remover ban
+		[3439481897] = {Motivo = "bug"}, -- se upando para conseguir adm e remover ban
 		[2582436510] = {Motivo = "flw"}, -- epicboy
 		[3521036134] = {Motivo = "vai ter que kitar mais rápido"}, -- matando e kitando
 		[5110548149] = {Motivo = "flw"}, -- change all
