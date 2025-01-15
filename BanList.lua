@@ -1,7 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 
-		
+		[3135035734] = {Motivo = "Speed all infinity"}, -- flw men
 		[7401260233] = {Motivo = "Reportado por crimes, abrir ticket para remoção de ban."}, -- victorlop sus
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
