@@ -257,6 +257,7 @@ local Ban = {
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[4969615566] = {Motivo = "Venda de cargos."}, -- venda de cargos
+		[3957395069] = {Motivo = "noob"}, -- xingando as pessoas no dc
 		[1613216746] = {Motivo = "flw"}, -- quebrou diversas regras.
 		[2919929744] = {Motivo = "Quebrou as regras do servidor e jogo."}, -- Ameaçando me processar por quebrar as regras e tomar punição??
 		
