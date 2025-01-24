@@ -9,6 +9,8 @@ local Ban = {
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
 		[3615676414] = {Motivo = "flw"}, -- Vitor
+		[7523050446] = {Motivo = "flw"}, -- helper halls
+		[7905925838] = {Motivo = "flw"}, -- helper halls
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
 		[1972731647] = {Motivo = "flw"}, -- fazendo coisas duvidosas, tenho print
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
