@@ -8,6 +8,7 @@ local Ban = {
 		[7401260233] = {Motivo = "Reportado por crimes, abrir ticket para remoção de ban."}, -- victorlop sus
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
+		[6177652226] = {Motivo = "EB clonada."}, -- copiando nick fonojonzo e clonando jogo / fazendo vendas
 		[3615676414] = {Motivo = "flw"}, -- Vitor
 		[7523050446] = {Motivo = "flw"}, -- helper halls
 		[7905925838] = {Motivo = "flw"}, -- helper halls
