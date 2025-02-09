@@ -18,6 +18,7 @@ local Ban = {
 		[5813781045] = {Motivo = "flw"}, -- ofendendo varios jogadores e dono
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[7251831547] = {Motivo = "flw"}, -- comando de esticar personagem all
+		[2934160213] = {Motivo = "R"}, -- Apagando ticket de venda
 		[3662614361] = {Motivo = "flw"}, -- copiando nick
 		[1702198434] = {Motivo = "R"}, -- racismo
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
