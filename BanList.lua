@@ -3,6 +3,7 @@ local Ban = {
 
 
 		
+		[5485890891] = {Motivo = "Comprovante falso."}, -- flw men
 		[3586882255] = {Motivo = "Comprovante falso."}, -- flw men
 		[3135035734] = {Motivo = "Speed all infinity"}, -- flw men
 		[7401260233] = {Motivo = "Reportado por crimes, abrir ticket para remoção de ban."}, -- victorlop sus
