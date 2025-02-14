@@ -3,6 +3,7 @@ local Ban = {
 
 
 		
+		[3592165962] = {Motivo = "flw"}, -- defendendo jogo clonado
 		[7209935473] = {Motivo = "flw"}, -- apagou 10 tickets de venda
 		[5485890891] = {Motivo = "Comprovante falso."}, -- flw men
 		[3586882255] = {Motivo = "Comprovante falso."}, -- flw men
