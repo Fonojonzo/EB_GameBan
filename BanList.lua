@@ -10,6 +10,7 @@ local Ban = {
 		[3135035734] = {Motivo = "Speed all infinity"}, -- flw men
 		[7401260233] = {Motivo = "Reportado por crimes, abrir ticket para remoção de ban."}, -- victorlop sus
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
+		[982811126] = {Motivo = "Ok"}, -- marcou no dc pra pedir
 		[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
 		[6177652226] = {Motivo = "EB clonada."}, -- copiando nick fonojonzo e clonando jogo / fazendo vendas
 		[3615676414] = {Motivo = "flw"}, -- Vitor
