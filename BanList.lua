@@ -18,6 +18,7 @@ local Ban = {
 		[7523050446] = {Motivo = "flw"}, -- helper halls
 		[7905925838] = {Motivo = "flw"}, -- helper halls
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
+		[7316484665} = {Motivo = "flw"}, -- vendendo vaga da equipe
 		[1972731647] = {Motivo = "flw"}, -- fazendo coisas duvidosas, tenho print
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[5813781045] = {Motivo = "flw"}, -- ofendendo varios jogadores e dono
