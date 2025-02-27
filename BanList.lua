@@ -1,8 +1,6 @@
 local Ban = {
 	['Ban'] = { 
 
-
-		
 		[1345097930] = {Motivo = "Estorno"}, -- estornou todas as compras steam
 		[3592165962] = {Motivo = "flw"}, -- defendendo jogo clonado
 		[7209935473] = {Motivo = "flw"}, -- apagou 10 tickets de venda
@@ -18,7 +16,7 @@ local Ban = {
 		[7523050446] = {Motivo = "flw"}, -- helper halls
 		[7905925838] = {Motivo = "flw"}, -- helper halls
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
-		[7316484665} = {Motivo = "flw"}, -- vendendo vaga da equipe
+		[7316484665] = {Motivo = "flw"}, -- vendendo vaga da equipe
 		[1972731647] = {Motivo = "flw"}, -- fazendo coisas duvidosas, tenho print
 		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
 		[5813781045] = {Motivo = "flw"}, -- ofendendo varios jogadores e dono
@@ -40,7 +38,7 @@ local Ban = {
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[3613674246] = {Motivo = "falta de respeito com adm"}, -- matando jogadores sem motivo toda hora e saindo do jogo /xingando uriel
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
-	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
+		[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[2468019331] = {Motivo = "flw"}, -- juntando trio pra ficar matando 1 pessoa em loop no chute sem motivo algum e contando mentiras
 		[5708144582] = {Motivo = "flw"}, -- juntando trio pra ficar matando 1 pessoa em loop no chute sem motivo algum e contando mentiras
@@ -270,16 +268,16 @@ local Ban = {
 		[3957395069] = {Motivo = "noob"}, -- xingando as pessoas no dc
 		[1613216746] = {Motivo = "flw"}, -- quebrou diversas regras.
 		[2919929744] = {Motivo = "Quebrou as regras do servidor e jogo."}, -- Ameaçando me processar por quebrar as regras e tomar punição??
-		
-		--[1449978472] = {Motivo = "Clonando coisas EB"}, -- Clonando coisas da EB para fazer um jogo cópia.
-		
-		
-		
 
-		
-		
-		
-		
+		--[1449978472] = {Motivo = "Clonando coisas EB"}, -- Clonando coisas da EB para fazer um jogo cópia.
+
+
+
+
+
+
+
+
 	},
 	['Ban_Amigos'] = {
 		[5275182514] = {Motivo = "Flw"}, 
@@ -294,7 +292,7 @@ local Ban = {
 		[1885818095] = {Motivo = "flw"}, -- ofensa a adm
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 		[3620648614] = {Motivo = "flw"}, --   spam de r6 all
-	 	[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
+		[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
 		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
 		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
