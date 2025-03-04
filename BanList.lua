@@ -7,6 +7,7 @@ local Ban = {
 		[5485890891] = {Motivo = "Comprovante falso."}, -- flw men
 		[3586882255] = {Motivo = "Comprovante falso."}, -- flw men
 		[3135035734] = {Motivo = "Speed all infinity"}, -- flw men
+		[5635950935] = {Motivo = "aviso dado"}, -- doente apenas
 		[7401260233] = {Motivo = "Reportado por crimes, abrir ticket para remoção de ban."}, -- victorlop sus
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		[982811126] = {Motivo = "Ok"}, -- marcou no dc pra pedir
