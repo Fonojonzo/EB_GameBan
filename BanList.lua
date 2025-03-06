@@ -65,7 +65,7 @@ local Ban = {
 		[4286249260] = {Motivo = "flw"}, -- abrindo ticket pra ficar xingando os adm atoa
 		[4947095462] = {Motivo = "flw"}, -- divulgando hack
 		[5190492978] = {Motivo = "processa la"}, -- ameaças
-		[5020740461] = {Motivo = "flw"}, -- escolheu esse caminho
+		[5020740461] = {Motivo = "flw"}, -- troll
 		[2651039851] = {Motivo = "flw"}, -- copiando meu nick
 		[2945619702] = {Motivo = "flw"}, -- disse q era hack doido
 		[1466859253] = {Motivo = "flw"}, -- dando rank all
@@ -185,8 +185,8 @@ local Ban = {
 		[3856155138] = {Motivo = "flw"}, -- setlevel %
 		[5239547961] = {Motivo = "flw"}, -- copiando meu nick pra trolar (outra pessoa provavel)
 		[4375593653] = {Motivo = "flw"}, -- divulgando eb copiando nick
-		[5234547796] = {Motivo = "flw"}, -- copiando nick ext
-		[5180275175] = {Motivo = "flw"}, -- copiando nick ext
+		[5234547796] = {Motivo = "flw"}, -- se passando por mim
+		[5180275175] = {Motivo = "flw"}, -- se passando por mim
 		[2579419391] = {Motivo = "Pode vender em outra EB"}, --   venda de rank
 		[3412099974] = {Motivo = "flw"}, --   vendendo rank
 		[3434131597] = {Motivo = "flw"}, --   vendendo rank
@@ -200,7 +200,7 @@ local Ban = {
 		[2602020522] = {Motivo = "dando level para abuser"}, --   change abc
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
-		[5281676202] = {Motivo = "flw"}, --   helper ajudando a raidar/ eu ja sabia q era conta fake
+		[5281676202] = {Motivo = "flw"}, --   helper ajudando a raidar
 		[5281676202] = {Motivo = "flw"}, --   gameban all
 		[3627457285] = {Motivo = "flw"}, --   dando setrank all
 		[4303100633] = {Motivo = "flw"}, --   mandando foto de pessoas sendo cortada no servidor do dc
