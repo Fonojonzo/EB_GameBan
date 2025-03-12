@@ -1,6 +1,7 @@
 local Ban = {
 	['Ban'] = { 
-
+		
+		[4255372027] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[1345097930] = {Motivo = "Estorno"}, -- estornou todas as compras steam
 		[3592165962] = {Motivo = "flw"}, -- defendendo jogo clonado
 		[7209935473] = {Motivo = "flw"}, -- apagou 10 tickets de venda
