@@ -1,6 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 		
+		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[4255372027] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[1345097930] = {Motivo = "Estorno"}, -- estornou todas as compras steam
 		[3592165962] = {Motivo = "flw"}, -- defendendo jogo clonado
@@ -285,6 +286,8 @@ local Ban = {
 
 	},
 	['Ban_Amigos'] = {
+
+		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[5275182514] = {Motivo = "Flw"}, 
 		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
 		[2240612447] = {Motivo = "Fracassado."}, 
