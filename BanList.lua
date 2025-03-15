@@ -267,6 +267,8 @@ local Ban = {
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
+		[2476839994] = {Motivo = "flw"}, -- retardado xingando dc
+		[1859954187] = {Motivo = "flw"}, -- retardado xingando dc
 		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
@@ -291,6 +293,8 @@ local Ban = {
 		[5275182514] = {Motivo = "Flw"}, 
 		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
 		[2240612447] = {Motivo = "Fracassado."}, 
+		[2476839994] = {Motivo = "flw"}, -- retardado xingando dc
+		[1859954187] = {Motivo = "flw"}, -- retardado xingando dc
 		[3627457285] = {Motivo = "flw"}, 
 		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
 		[5221206388] = {Motivo = "flw"}, --  all -99999
