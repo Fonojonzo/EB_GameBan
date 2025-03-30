@@ -12,6 +12,7 @@ local Ban = {
 		[7209935473] = {Motivo = "flw"}, -- apagou 10 tickets de venda
 		[5485890891] = {Motivo = "Comprovante falso."}, -- flw men
 		[3586882255] = {Motivo = "Comprovante falso."}, -- flw men
+		[5290299367] = {Motivo = "flw"}, -- tentando raidar o server do dc com bot
 		[3135035734] = {Motivo = "Speed all infinity"}, -- flw men
 		[7507991337] = {Motivo = "divulgando"}, -- convidando pro jogo dele disse q n vai mais jogar mesmo
 		[6735836427] = {Motivo = "2 vezes atrapalhando ai n"}, -- matando pessoa que tô conversando 2 vezes seguidas
