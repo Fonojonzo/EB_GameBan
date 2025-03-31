@@ -300,7 +300,6 @@ local Ban = {
 		[2240612447] = {Motivo = "Fracassado."}, 
 		[2476839994] = {Motivo = "flw"}, -- retardado xingando dc
 		[1859954187] = {Motivo = "flw"}, -- retardado xingando dc
-		[3627457285] = {Motivo = "flw"}, 
 		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
 		[5221206388] = {Motivo = "flw"}, --  all -99999
 		[4304106861] = {Motivo = "flw"},
