@@ -7,6 +7,8 @@ local Ban = {
 		[17261655] = {Motivo = "falta de robux, mastertopgab"}, -- spamm de skill no v3 teste
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[3158456237] = {Motivo = "receba, atenção infinita"}, -- arjero
+		[7523050446] = {Motivo = "flw"}, -- helper halls
+		[7905925838] = {Motivo = "flw"}, -- helper halls
 		[4255372027] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[1345097930] = {Motivo = "Estorno"}, -- estornou todas as compras steam
 		[3592165962] = {Motivo = "flw"}, -- defendendo jogo clonado
