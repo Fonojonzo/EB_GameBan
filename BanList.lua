@@ -4,6 +4,7 @@ local Ban = {
 		[226402233] = {Motivo = "lixo"}, -- lixo
 		[2267845183] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado
 		[18668065416] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado
+		[17261655] = {Motivo = "falta de robux"}, -- spamm de skill no v3 teste
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[3158456237] = {Motivo = "receba, atenção infinita"}, -- arjero
 		[4255372027] = {Motivo = "Comprovante falso."}, -- comprovante falso
