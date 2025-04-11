@@ -2,16 +2,13 @@ local Ban = {
 	['Ban'] = { 
 		[1058059345] = {Motivo = "lixo"}, -- lixo
 		[226402233] = {Motivo = "lixo"}, -- lixo
-		[2267845183] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado
-		[18668065416] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado
+		[18668065416] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado (foi ban da roblox)
 		[17261655] = {Motivo = "falta de robux, mastertopgab"}, -- spamm de skill no v3 teste
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
-		[3158456237] = {Motivo = "receba, atenção infinita"}, -- arjero
 		[7523050446] = {Motivo = "flw"}, -- helper halls
 		[7905925838] = {Motivo = "flw"}, -- helper halls
 		[4255372027] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[1345097930] = {Motivo = "Estorno"}, -- estornou todas as compras steam
-		[3592165962] = {Motivo = "flw"}, -- defendendo jogo clonado
 		[7209935473] = {Motivo = "flw"}, -- apagou 10 tickets de venda
 		[5485890891] = {Motivo = "Comprovante falso."}, -- flw men
 		[3586882255] = {Motivo = "Comprovante falso."}, -- flw men
@@ -20,7 +17,6 @@ local Ban = {
 		[7507991337] = {Motivo = "divulgando"}, -- convidando pro jogo dele disse q n vai mais jogar mesmo
 		[6735836427] = {Motivo = "2 vezes atrapalhando ai n"}, -- matando pessoa que tô conversando 2 vezes seguidas
 		[5635950935] = {Motivo = "aviso dado"}, -- doente apenas
-		[7401260233] = {Motivo = "Reportado por crimes, abrir ticket para remoção de ban."}, -- victorlop sus
 		[7541015985] = {Motivo = "flw"}, -- fonojonzoalt
 		[982811126] = {Motivo = "Ok"}, -- marcou no dc pra pedir
 		[4943155186] = {Motivo = "EB clonada."}, -- EASY_BR00
@@ -43,10 +39,8 @@ local Ban = {
 		[3021435927] = {Motivo = "gameban"}, -- retardado ban all
 		[1800043983] = {Motivo = "flw"}, -- me dando ref 8x
 		[3672612877] = {Motivo = "flw"}, -- vendendo rank
-		[7385175009] = {Motivo = "flw"}, -- xingando akira
 		[3094400777] = {Motivo = "flw"}, -- exploit
 		[5301022151] = {Motivo = "flw"}, -- uso de comandos all v2
-		[2876983353] = {Motivo = "flw"}, -- renan pediu
 		[3003902905] = {Motivo = "flw"}, -- tentando fazer os player virar contra
 		[3613674246] = {Motivo = "falta de respeito com adm"}, -- matando jogadores sem motivo toda hora e saindo do jogo /xingando uriel
 		[34265857] = {Motivo = "flw"}, -- copiando eb v2
@@ -226,8 +220,7 @@ local Ban = {
 		[4928937023] = {Motivo = "flw"}, -- comprovante falso
 		[4981342405] = {Motivo = "flw"}, -- derrubando server comando all lagando
 		[4511683976] = {Motivo = "flw"}, -- venda rank gang
-		[159522675] = {Motivo = "flw"}, -- falando mal do dizeseti
-		[2384089789] = {Motivo = "Não foi boa ideia dar deslike "}, -- dando deslike no eb custom char assim que tomou ban por abusar
+		[2384089789] = {Motivo = "Não foi boa ideia dar deslike"}, -- dando deslike no eb custom char assim que tomou ban por abusar
 		[1244608487] = {Motivo = "eb clonada"}, -- eb clonada
 		[3209039131] = {Motivo = "eb clonada"}, -- eb clonada
 		[4975623840] = {Motivo = "racismo"}, -- racismo
@@ -254,9 +247,6 @@ local Ban = {
 		[2231263072] = {Motivo = "Fingindo comprar."}, -- trolando fingindo compra	
 		[3777786906] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo
 		[2932181115] = {Motivo = "Venda de Ranks"}, --  venda de ranks gang/jogo	
-		[2680752356] = {Motivo = "flw"}, --  spam discord @vendedor
-		[1447871302] = {Motivo = "flw"}, --  spam discord @vendedor
-		[4968989291] = {Motivo = "Raindando EB parceiro"}, --  raidando eb do tropa
 		[4674864032] = {Motivo = "Estorno"}, --  Estorno de compra helper no faustino
 		[1273098665] = {Motivo = "Estorno"}, --  Estorno de compra helper no faustino
 		[4807495676] = {Motivo = "Tentativa de golpe"}, --  tentando ganhar rank com golpe
@@ -273,8 +263,6 @@ local Ban = {
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 		[1642554093] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[2710519623] = {Motivo = "."}, -- van all destroiu v3 btools
-		[2476839994] = {Motivo = "flw"}, -- retardado xingando dc
-		[1859954187] = {Motivo = "flw"}, -- retardado xingando dc
 		[2674166818] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[3314584360] = {Motivo = "Venda de cargos."}, -- venda de cargos
 		[7109651717] = {Motivo = "Venda de cargos."}, -- venda de cargos
