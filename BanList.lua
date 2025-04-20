@@ -271,7 +271,7 @@ local Ban = {
 		[1613216746] = {Motivo = "flw"}, -- quebrou diversas regras.
 		[2919929744] = {Motivo = "Quebrou as regras do servidor e jogo."}, -- Ameaçando me processar por quebrar as regras e tomar punição??
 		[2579583119] = {Motivo = "flw"}, -- ''guibross'' foi no privado pedir
-
+		[4770008043] = {Motivo = "flw"}, -- Raidando jogo
 		--[1449978472] = {Motivo = "Clonando coisas EB"}, -- Clonando coisas da EB para fazer um jogo cópia.
 
 
