@@ -23,6 +23,7 @@ local Ban = {
 		[6177652226] = {Motivo = "EB clonada."}, -- copiando nick fonojonzo e clonando jogo / fazendo vendas
 		[3615676414] = {Motivo = "flw"}, -- Vitor
 		[5174554228] = {Motivo = "flw"}, -- sun ;/
+		[2378032589] = {Motivo = "Eu te avisei"}, -- usando hack para obter vantagem em evento
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
 		[7316484665] = {Motivo = "flw"}, -- vendendo vaga da equipe
 		[1972731647] = {Motivo = "flw"}, -- fazendo coisas duvidosas, tenho print
