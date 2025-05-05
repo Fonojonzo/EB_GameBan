@@ -1,5 +1,8 @@
 local Ban = {
 	['Ban'] = { 
+
+		
+		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
 		[1058059345] = {Motivo = "lixo"}, -- lixo
 		[226402233] = {Motivo = "lixo"}, -- lixo
 		[18668065416] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado (foi ban da roblox)
