@@ -3,7 +3,10 @@ local Ban = {
 
 
 
-		
+
+
+		[631759508] = {Motivo = "não gostei"}, -- troll enchendo o saco no jogo de carta
+		[5009946167] = {Motivo = "não gostei"}, -- troll enchendo o saco no jogo de carta
 		[5274391999] = {Motivo = "Comprovante Falso."}, -- lixo
 		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
 		[1058059345] = {Motivo = "lixo"}, -- lixo
