@@ -2,8 +2,7 @@ local Ban = {
 	['Ban'] = { 
 
 
-		
-		[3491503785] = {Motivo = "depois desban"}, -- lixo
+		[5006715970] = {Motivo = "Comprovante Falso."}, -- lixo
 		[5274391999] = {Motivo = "Comprovante Falso."}, -- lixo
 		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
 		[1058059345] = {Motivo = "lixo"}, -- lixo
