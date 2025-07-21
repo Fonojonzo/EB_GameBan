@@ -1,7 +1,6 @@
 local Ban = {
 	['Ban'] = { 
-
-
+		[3517272121] = {Motivo = "Venda de contas"}, -- lobinha_vr venda de conta.
 		[5006715970] = {Motivo = "Comprovante Falso."}, -- lixo
 		[5274391999] = {Motivo = "Comprovante Falso."}, -- lixo
 		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
