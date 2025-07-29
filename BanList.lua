@@ -4,6 +4,8 @@ local Ban = {
 
 		[5138312115] = {Motivo = "Comprovante Falso."}, -- comprovante falso
 		
+		[8840999525] = {Motivo = "Testa o antiban e me avisa"}, -- exploit
+		
 		[3322067390] = {Motivo = "Venda de contas"}, -- lobinha_vr venda de conta.
 		[3517272121] = {Motivo = "Venda de contas"}, -- lobinha_vr venda de conta.
 		
