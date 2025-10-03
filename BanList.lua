@@ -2,6 +2,7 @@ local Ban = {
 	['Ban'] = { 
 
 
+		[3353792064] = {Motivo = "flw"}, -- exploit no jogo de cartas com conta secundaria
 		[2513687052] = {Motivo = "flw"}, -- doente retardado seguindo em jogo pra ficar focando
 		[5138312115] = {Motivo = "Comprovante Falso."}, -- comprovante falso
 		
