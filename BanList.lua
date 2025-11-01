@@ -1,7 +1,8 @@
 local Ban = {
 	['Ban'] = { 
 
-
+		[1903201376] = {Motivo = "Exploit"}, -- exploit fazendo exploits pra vender/ evento halloween
+		
 		[3353792064] = {Motivo = "flw"}, -- exploit no jogo de cartas com conta secundaria
 		[2513687052] = {Motivo = "flw"}, -- doente retardado seguindo em jogo pra ficar focando
 		[5138312115] = {Motivo = "Comprovante Falso."}, -- comprovante falso
@@ -299,23 +300,18 @@ local Ban = {
 	},
 	['Ban_Amigos'] = {
 
+		
+		[1903201376] = {Motivo = "Exploit"}, -- exploit vendendo hack de halloween
+		
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[5275182514] = {Motivo = "Flw"}, 
 		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
 		[2240612447] = {Motivo = "Fracassado."}, 
-		[2476839994] = {Motivo = "flw"}, -- retardado xingando dc
-		[1859954187] = {Motivo = "flw"}, -- retardado xingando dc
-		[914914325] = {Motivo = "flw"}, --  pedrinhouuuuuuu
 		[5221206388] = {Motivo = "flw"}, --  all -99999
 		[4304106861] = {Motivo = "flw"},
-		[3627457285] = {Motivo = "flw"}, -- conta fake instagram
 		[5101433461] = {Motivo = "Fracassado."}, 
-		[1885818095] = {Motivo = "flw"}, -- ofensa a adm
 		[2602020522] = {Motivo = "Flw"}, --  change abc
 		[3620648614] = {Motivo = "flw"}, --   spam de r6 all
-		[3421526748] = {Motivo = "flw"}, -- querendo atenção dc xingando uriel
-		[6032483768] = {Motivo = "flw"}, -- level 949 no v2
-		[4129038485] = {Motivo = "flw"}, -- ofendendo os membros do meu time
 		[829736806] = {Motivo = "flw"}, -- raidando torneio
 		[5263747126] = {Motivo = "flw"}, --   change abc
 		[3059560613] = {Motivo = "flw"}, --   change abc
