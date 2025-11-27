@@ -1,6 +1,8 @@
 local Ban = {
 	['Ban'] = { 
 
+		
+		[4782641314] = {Motivo = "Você não é bem vindo no nosso jogo."}, --  RDM em civis sendo recrutados
 		[1903201376] = {Motivo = "Exploit"}, -- exploit fazendo exploits pra vender/ evento halloween
 		
 		[3353792064] = {Motivo = "flw"}, -- exploit no jogo de cartas com conta secundaria
