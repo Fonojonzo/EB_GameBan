@@ -2,6 +2,8 @@ local Ban = {
 	['Ban'] = { 
 
 
+		
+		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
 		[2054577341] = {Motivo = "Remote Spam"}, --  exploit
 		[4929424967] = {Motivo = "Reembolso."}, --  Tentativa reembolso 
 		[4782641314] = {Motivo = "Você não é bem vindo no nosso jogo."}, --  RDM em civis sendo recrutados
@@ -300,9 +302,8 @@ local Ban = {
 	},
 	['Ban_Amigos'] = {
 
-		
+		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
 		[1903201376] = {Motivo = "Exploit"}, -- exploit vendendo hack de halloween
-		
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
 		[5275182514] = {Motivo = "Flw"}, 
 		[5345800906] = {Motivo = "roblox negativo"}, -- trolando fingindo compra
