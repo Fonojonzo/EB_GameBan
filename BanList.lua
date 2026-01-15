@@ -1,7 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 
-
+  [5677915950] = {Motivo = 'Conta comprada.'},
 		[1478312765] = {Motivo = "Abuso de char."}, -- awm anom troll charother torneio paia
 		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
 		[2054577341] = {Motivo = "Remote Spam"}, --  exploit
