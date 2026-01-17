@@ -20,6 +20,7 @@ local Ban = {
 		[5006715970] = {Motivo = "Comprovante Falso."}, -- lixo
 		[5274391999] = {Motivo = "Comprovante Falso."}, -- lixo
 		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
+		[7507991337] = {Motivo = "Ok"}, -- J7 Pediu
 		[1058059345] = {Motivo = "lixo"}, -- lixo
 		[226402233] = {Motivo = "lixo"}, -- lixo
 		[1478312765] = {Motivo = "ok"}, -- tirei sem querer é o cara q gastou 4k em cargo (n sei oq tava escrito)
