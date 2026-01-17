@@ -22,6 +22,7 @@ local Ban = {
 		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
 		[1058059345] = {Motivo = "lixo"}, -- lixo
 		[226402233] = {Motivo = "lixo"}, -- lixo
+		[1478312765] = {Motivo = "ok"}, -- tirei sem querer é o cara q gastou 4k em cargo (n sei oq tava escrito)
 		[18668065416] = {Motivo = "Jogo Clonado"}, -- Jogo Clonado (foi ban da roblox)
 		[3158456237] = {Motivo = "lixo"}, -- arjero33 me xingando e xingando meus membros
 		[17261655] = {Motivo = "falta de robux, mastertopgab"}, -- spamm de skill no v3 teste
