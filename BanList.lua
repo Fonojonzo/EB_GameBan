@@ -56,7 +56,7 @@ local Ban = {
 		[1702198434] = {Motivo = "R"}, -- racismo
 		[7287195675] = {Motivo = "pode não"}, -- copiando nome
 		[3191701336] = {Motivo = "flw"}, -- lulumas
-		[3108673472] = {Motivo = "flw"}, -- IDK - banwave
+		-- [3108673472] = {Motivo = "flw"}, -- IDK - banwave
 		[3021435927] = {Motivo = "gameban"}, -- retardado ban all
 		[3672612877] = {Motivo = "flw"}, -- vendendo rank
 		[3094400777] = {Motivo = "flw"}, -- exploit
