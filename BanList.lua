@@ -1,6 +1,9 @@
 local Ban = {
 	['Ban'] = { 
 
+
+		
+		[8446082243] = {Motivo = 'Troll'}, -- direct ban membros staff
 		[1084069898] = {Motivo = 'Troll'}, -- direct ban membros staff
 		--[5677915950] = {Motivo = 'Conta comprada.'},
 		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
