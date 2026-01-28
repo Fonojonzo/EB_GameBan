@@ -2,7 +2,7 @@ local Ban = {
 	['Ban'] = { 
 
 
-		
+		[8200217733] = {Motivo = 'Comprovante Falso'}, -- Comprovante Falso.
 		[8446082243] = {Motivo = 'Troll'}, -- direct ban membros staff
 		[1084069898] = {Motivo = 'Troll'}, -- direct ban membros staff
 		--[5677915950] = {Motivo = 'Conta comprada.'},
