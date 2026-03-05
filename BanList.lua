@@ -2,6 +2,7 @@ local Ban = {
 	['Ban'] = { 
 
 
+		[10448026976] = {Motivo = 'flw'}, -- ban all
 		[9828582963] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior.'}, -- flw
 		[4209153368] = {Motivo = 'Exploit, quando der like eu desban'}, -- flw
 		--[5677915950] = {Motivo = 'Venda de contas.'}, -- Comprovante Falso.
