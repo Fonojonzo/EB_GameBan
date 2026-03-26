@@ -3,7 +3,6 @@ local Ban = {
 
 
 		[10448026976] = {Motivo = 'flw'}, -- ban all
-		[9828582963] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior.'}, -- flw
 		[4209153368] = {Motivo = 'Exploit, quando der like eu desban'}, -- flw
 		--[5677915950] = {Motivo = 'Venda de contas.'}, -- Comprovante Falso.
 		[8200217733] = {Motivo = 'Comprovante Falso'}, -- Comprovante Falso.
@@ -240,7 +239,7 @@ local Ban = {
 
 	},
 	['Ban_Amigos'] = {
-		[9828582963] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior.'}, -- flw
+
 		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
 		[1903201376] = {Motivo = "Exploit"}, -- exploit vendendo hack de halloween
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
