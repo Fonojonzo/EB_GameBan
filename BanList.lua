@@ -240,7 +240,7 @@ local Ban = {
 
 	},
 	['Ban_Amigos'] = {
-
+		[10106924487] = {Motivo = 'Poupando trabalho'}, -- reclamando e banindo quem chamou de "mahoraga gordo" 90 dias, depois chorando falando que não vai jogar mais
 		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
 		[1903201376] = {Motivo = "Exploit"}, -- exploit vendendo hack de halloween
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
