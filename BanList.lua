@@ -2,6 +2,7 @@ local Ban = {
 	['Ban'] = { 
 
 
+		[8651321555] = {Motivo = 'flw'}, -- Golpe comprovante agendado
 		[10106924487] = {Motivo = 'Poupando trabalho'}, -- reclamando e banindo quem chamou de "mahoraga gordo" 90 dias, depois chorando falando que não vai jogar mais
 		[7251603416] = {Motivo = 'flw'}, -- eb ta falindo kkkk
 		[10448026976] = {Motivo = 'flw'}, -- ban all
