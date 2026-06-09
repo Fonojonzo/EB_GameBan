@@ -1,6 +1,8 @@
 local Ban = {
 	['Ban'] = { 
+
 		
+		[9327797506] = {Motivo = 'flw'}, -- golpista tentando dar estorno e receber org-t
 		[525037141] = {Motivo = 'flw'}, -- golpista fingindo ser eu
 		[8651321555] = {Motivo = 'flw'}, -- Golpe comprovante agendado
 		[10106924487] = {Motivo = 'Poupando trabalho'}, -- reclamando e banindo quem chamou de "mahoraga gordo" 90 dias, depois chorando falando que não vai jogar mais
