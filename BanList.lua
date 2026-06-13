@@ -1,7 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 
-		
+		[8324765911] = {Motivo = 'flw'}, -- devejonzo, matando no sintonia usando hack + falando que já foi dev meu
 		[9327797506] = {Motivo = 'flw'}, -- golpista tentando dar estorno e receber org-t
 		[525037141] = {Motivo = 'flw'}, -- golpista fingindo ser eu
 		[8651321555] = {Motivo = 'flw'}, -- Golpe comprovante agendado
