@@ -1,6 +1,9 @@
 local Ban = {
 	['Ban'] = { 
 
+		
+		[8103890668] = {Motivo = '/antiunhardban'}, -- exploit
+		[10344686478] = {Motivo = '/antiunhardban'}, -- exploit
 		[8671098855] = {Motivo = 'flw'}, -- venda de raças, mentindo falando que 100 reais pra manter buff de raça que dei
 		[8324765911] = {Motivo = 'flw'}, -- devejonzo, matando no sintonia usando hack + falando que já foi dev meu
 		[9327797506] = {Motivo = 'flw'}, -- golpista tentando dar estorno e receber org-t
