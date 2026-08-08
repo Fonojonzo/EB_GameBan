@@ -1,8 +1,8 @@
 local Ban = {
 	['Ban'] = { 
 
-		[3447517113] = {Motivo = '.'}, -- venda de raça
-		[3642743195] = {Motivo = '.'}, -- venda de raça
+	--	[3447517113] = {Motivo = '.'}, -- venda de raça
+--		[3642743195] = {Motivo = '.'}, -- venda de raça
 		
 		[8103890668] = {Motivo = '/antiunhardban'}, -- exploit
 		[10344686478] = {Motivo = '/antiunhardban'}, -- exploit
