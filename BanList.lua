@@ -4,8 +4,6 @@ local Ban = {
 	--	[3447517113] = {Motivo = '.'}, -- venda de raça
 --		[3642743195] = {Motivo = '.'}, -- venda de raça
 		
-		[3421576235] = {Motivo = '.'}, -- enchendo o saco hanyou
-		
 		[8103890668] = {Motivo = '/antiunhardban'}, -- exploit
 		[8103890668] = {Motivo = '/antiunhardban'}, -- exploit
 		[10344686478] = {Motivo = '/antiunhardban'}, -- exploit
