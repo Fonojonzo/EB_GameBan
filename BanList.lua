@@ -1,7 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 
-		[7259645586] = {Motivo = 'Venda de item sem autorização.'}, -- venda de raça / lanzito
+		--[7259645586] = {Motivo = 'Venda de item sem autorização.'}, -- venda de raça / lanzito
 		
 --		[3642743195] = {Motivo = '.'}, -- venda de raça
 		
