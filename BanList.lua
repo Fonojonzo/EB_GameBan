@@ -6,6 +6,8 @@ local Ban = {
 --		[3642743195] = {Motivo = '.'}, -- venda de raça
 		
 		--[5794306205] = {Motivo = 'comprovante falso'}, comprovante falso
+		
+		[11650108786] = {Motivo = ' '}, -- kity_ ban até pagar parte certa
 		[8222170744] = {Motivo = 'flw'}, -- cancelando compra pois "já faliu mesmo"
 		[8103890668] = {Motivo = '/antiunhardban'}, -- exploit
 		[8103890668] = {Motivo = '/antiunhardban'}, -- exploit
